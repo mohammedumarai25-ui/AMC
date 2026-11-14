@@ -1,0 +1,195 @@
+pattern,account,related_accounts,evidence
+FAN_IN,ACC0011,4,4 unique accounts transferred money to this account
+FAN_IN,ACC0026,4,4 unique accounts transferred money to this account
+FAN_IN,ACC0034,5,5 unique accounts transferred money to this account
+FAN_IN,ACC0045,4,4 unique accounts transferred money to this account
+FAN_IN,ACC0102,4,4 unique accounts transferred money to this account
+FAN_IN,ACC0106,4,4 unique accounts transferred money to this account
+FAN_IN,ACC0116,5,5 unique accounts transferred money to this account
+FAN_IN,ACC0121,4,4 unique accounts transferred money to this account
+FAN_IN,ACC0147,4,4 unique accounts transferred money to this account
+FAN_IN,ACC0172,4,4 unique accounts transferred money to this account
+FAN_IN,ACC0174,6,6 unique accounts transferred money to this account
+FAN_IN,ACC0186,5,5 unique accounts transferred money to this account
+FAN_IN,ACC0191,4,4 unique accounts transferred money to this account
+FAN_IN,ACC0202,4,4 unique accounts transferred money to this account
+FAN_IN,ACC0211,4,4 unique accounts transferred money to this account
+FAN_IN,ACC0213,4,4 unique accounts transferred money to this account
+FAN_IN,ACC0234,4,4 unique accounts transferred money to this account
+FAN_IN,ACC0236,4,4 unique accounts transferred money to this account
+FAN_IN,ACC0900,29,29 unique accounts transferred money to this account
+FAN_IN,ACC0901,28,28 unique accounts transferred money to this account
+FAN_IN,ACC0902,30,30 unique accounts transferred money to this account
+FAN_IN,ACC0903,29,29 unique accounts transferred money to this account
+FAN_IN,ACC0904,30,30 unique accounts transferred money to this account
+FAN_OUT,ACC0035,6,This account transferred money to 6 unique accounts
+FAN_OUT,ACC0039,4,This account transferred money to 4 unique accounts
+FAN_OUT,ACC0040,4,This account transferred money to 4 unique accounts
+FAN_OUT,ACC0042,4,This account transferred money to 4 unique accounts
+FAN_OUT,ACC0061,4,This account transferred money to 4 unique accounts
+FAN_OUT,ACC0067,4,This account transferred money to 4 unique accounts
+FAN_OUT,ACC0098,4,This account transferred money to 4 unique accounts
+FAN_OUT,ACC0124,4,This account transferred money to 4 unique accounts
+FAN_OUT,ACC0130,4,This account transferred money to 4 unique accounts
+FAN_OUT,ACC0133,4,This account transferred money to 4 unique accounts
+FAN_OUT,ACC0142,4,This account transferred money to 4 unique accounts
+FAN_OUT,ACC0144,5,This account transferred money to 5 unique accounts
+FAN_OUT,ACC0170,6,This account transferred money to 6 unique accounts
+FAN_OUT,ACC0173,4,This account transferred money to 4 unique accounts
+FAN_OUT,ACC0183,4,This account transferred money to 4 unique accounts
+FAN_OUT,ACC0202,4,This account transferred money to 4 unique accounts
+FAN_OUT,ACC0209,4,This account transferred money to 4 unique accounts
+FAN_OUT,ACC0213,5,This account transferred money to 5 unique accounts
+FAN_OUT,ACC0214,6,This account transferred money to 6 unique accounts
+FAN_OUT,ACC0225,5,This account transferred money to 5 unique accounts
+FAN_OUT,ACC0910,29,This account transferred money to 29 unique accounts
+FAN_OUT,ACC0911,28,This account transferred money to 28 unique accounts
+FAN_OUT,ACC0912,30,This account transferred money to 30 unique accounts
+FAN_OUT,ACC0913,29,This account transferred money to 29 unique accounts
+FAN_OUT,ACC0914,30,This account transferred money to 30 unique accounts
+CYCLE,ACC0957,2,Circular transaction path: ACC0957 -> ACC0977 -> ACC0937 -> ACC0957
+CYCLE,ACC0934,2,Circular transaction path: ACC0934 -> ACC0954 -> ACC0974 -> ACC0934
+CYCLE,ACC0931,2,Circular transaction path: ACC0931 -> ACC0951 -> ACC0971 -> ACC0931
+CYCLE,ACC0968,2,Circular transaction path: ACC0968 -> ACC0928 -> ACC0948 -> ACC0968
+CYCLE,ACC0925,2,Circular transaction path: ACC0925 -> ACC0945 -> ACC0965 -> ACC0925
+CYCLE,ACC0922,2,Circular transaction path: ACC0922 -> ACC0942 -> ACC0962 -> ACC0922
+CYCLE,ACC0939,2,Circular transaction path: ACC0939 -> ACC0959 -> ACC0979 -> ACC0939
+CYCLE,ACC0976,2,Circular transaction path: ACC0976 -> ACC0936 -> ACC0956 -> ACC0976
+CYCLE,ACC0973,2,Circular transaction path: ACC0973 -> ACC0933 -> ACC0953 -> ACC0973
+CYCLE,ACC0950,2,Circular transaction path: ACC0950 -> ACC0970 -> ACC0930 -> ACC0950
+CYCLE,ACC0947,2,Circular transaction path: ACC0947 -> ACC0967 -> ACC0927 -> ACC0947
+CYCLE,ACC0964,2,Circular transaction path: ACC0964 -> ACC0924 -> ACC0944 -> ACC0964
+CYCLE,ACC0961,2,Circular transaction path: ACC0961 -> ACC0921 -> ACC0941 -> ACC0961
+CYCLE,ACC0978,2,Circular transaction path: ACC0978 -> ACC0938 -> ACC0958 -> ACC0978
+CYCLE,ACC0935,2,Circular transaction path: ACC0935 -> ACC0955 -> ACC0975 -> ACC0935
+CYCLE,ACC0972,2,Circular transaction path: ACC0972 -> ACC0932 -> ACC0952 -> ACC0972
+CYCLE,ACC0949,2,Circular transaction path: ACC0949 -> ACC0969 -> ACC0929 -> ACC0949
+CYCLE,ACC0946,2,Circular transaction path: ACC0946 -> ACC0966 -> ACC0926 -> ACC0946
+CYCLE,ACC0943,2,Circular transaction path: ACC0943 -> ACC0963 -> ACC0923 -> ACC0943
+CYCLE,ACC0940,2,Circular transaction path: ACC0940 -> ACC0960 -> ACC0920 -> ACC0940
+CYCLE,ACC0225,2,Circular transaction path: ACC0225 -> ACC0201 -> ACC0154 -> ACC0225
+RAPID_PASS_THROUGH,ACC0948,2,Incoming transaction TXN00409 followed by outgoing transaction TXN00410 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC0958,2,Incoming transaction TXN00439 followed by outgoing transaction TXN00440 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC0990,2,Incoming transaction TXN00571 followed by outgoing transaction TXN00572 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC0992,2,Incoming transaction TXN00457 followed by outgoing transaction TXN00458 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC0994,2,Incoming transaction TXN00553 followed by outgoing transaction TXN00554 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC0995,2,Incoming transaction TXN00496 followed by outgoing transaction TXN00497 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC0995,2,Incoming transaction TXN00586 followed by outgoing transaction TXN00587 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC0996,2,Incoming transaction TXN00469 followed by outgoing transaction TXN00470 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC0997,2,Incoming transaction TXN00472 followed by outgoing transaction TXN00473 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC0997,2,Incoming transaction TXN00592 followed by outgoing transaction TXN00593 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC1000,2,Incoming transaction TXN00452 followed by outgoing transaction TXN00453 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC1000,2,Incoming transaction TXN00482 followed by outgoing transaction TXN00483 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC1000,2,Incoming transaction TXN00572 followed by outgoing transaction TXN00573 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC1001,2,Incoming transaction TXN00515 followed by outgoing transaction TXN00516 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC1001,2,Incoming transaction TXN00545 followed by outgoing transaction TXN00546 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC1002,2,Incoming transaction TXN00548 followed by outgoing transaction TXN00549 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC1002,2,Incoming transaction TXN00578 followed by outgoing transaction TXN00579 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC1004,2,Incoming transaction TXN00524 followed by outgoing transaction TXN00525 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC1005,2,Incoming transaction TXN00557 followed by outgoing transaction TXN00558 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC1006,2,Incoming transaction TXN00470 followed by outgoing transaction TXN00471 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC1006,2,Incoming transaction TXN00560 followed by outgoing transaction TXN00561 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC1006,2,Incoming transaction TXN00590 followed by outgoing transaction TXN00591 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC1007,2,Incoming transaction TXN00593 followed by outgoing transaction TXN00594 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC1008,2,Incoming transaction TXN00596 followed by outgoing transaction TXN00597 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC1051,2,Incoming transaction TXN00606 followed by outgoing transaction TXN00607 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC1052,2,Incoming transaction TXN00714 followed by outgoing transaction TXN00715 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC1057,2,Incoming transaction TXN00638 followed by outgoing transaction TXN00639 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC1057,2,Incoming transaction TXN00738 followed by outgoing transaction TXN00739 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC1066,2,Incoming transaction TXN00631 followed by outgoing transaction TXN00632 within 30 minutes with similar amounts
+RAPID_PASS_THROUGH,ACC1067,2,Incoming transaction TXN00639 followed by outgoing transaction TXN00640 within 30 minutes with similar amounts
+LAYERED_NETWORK,ACC0980,3,"Transaction chain: ACC0980 -> ACC0990 -> ACC1000 -> ACC1010 | Transactions: TXN00451, TXN00452, TXN00453"
+LAYERED_NETWORK,ACC0981,3,"Transaction chain: ACC0981 -> ACC0991 -> ACC1001 -> ACC1011 | Transactions: TXN00454, TXN00455, TXN00456"
+LAYERED_NETWORK,ACC0982,3,"Transaction chain: ACC0982 -> ACC0992 -> ACC1002 -> ACC1012 | Transactions: TXN00457, TXN00458, TXN00459"
+LAYERED_NETWORK,ACC0983,3,"Transaction chain: ACC0983 -> ACC0993 -> ACC1003 -> ACC1013 | Transactions: TXN00460, TXN00461, TXN00462"
+LAYERED_NETWORK,ACC0984,3,"Transaction chain: ACC0984 -> ACC0994 -> ACC1004 -> ACC1014 | Transactions: TXN00463, TXN00464, TXN00465"
+LAYERED_NETWORK,ACC0985,3,"Transaction chain: ACC0985 -> ACC0995 -> ACC1005 -> ACC1015 | Transactions: TXN00466, TXN00467, TXN00468"
+LAYERED_NETWORK,ACC0986,3,"Transaction chain: ACC0986 -> ACC0996 -> ACC1006 -> ACC1016 | Transactions: TXN00469, TXN00470, TXN00471"
+LAYERED_NETWORK,ACC0987,3,"Transaction chain: ACC0987 -> ACC0997 -> ACC1007 -> ACC1017 | Transactions: TXN00472, TXN00473, TXN00474"
+LAYERED_NETWORK,ACC0988,3,"Transaction chain: ACC0988 -> ACC0998 -> ACC1008 -> ACC1018 | Transactions: TXN00475, TXN00476, TXN00477"
+LAYERED_NETWORK,ACC0989,3,"Transaction chain: ACC0989 -> ACC0999 -> ACC1009 -> ACC1019 | Transactions: TXN00478, TXN00479, TXN00480"
+LAYERED_NETWORK,ACC0980,3,"Transaction chain: ACC0980 -> ACC0990 -> ACC1000 -> ACC1010 | Transactions: TXN00481, TXN00482, TXN00483"
+LAYERED_NETWORK,ACC0981,3,"Transaction chain: ACC0981 -> ACC0991 -> ACC1001 -> ACC1011 | Transactions: TXN00484, TXN00485, TXN00486"
+LAYERED_NETWORK,ACC0982,3,"Transaction chain: ACC0982 -> ACC0992 -> ACC1002 -> ACC1012 | Transactions: TXN00487, TXN00488, TXN00489"
+LAYERED_NETWORK,ACC0983,3,"Transaction chain: ACC0983 -> ACC0993 -> ACC1003 -> ACC1013 | Transactions: TXN00490, TXN00491, TXN00492"
+LAYERED_NETWORK,ACC0984,3,"Transaction chain: ACC0984 -> ACC0994 -> ACC1004 -> ACC1014 | Transactions: TXN00493, TXN00494, TXN00495"
+LAYERED_NETWORK,ACC0985,3,"Transaction chain: ACC0985 -> ACC0995 -> ACC1005 -> ACC1015 | Transactions: TXN00496, TXN00497, TXN00498"
+LAYERED_NETWORK,ACC0986,3,"Transaction chain: ACC0986 -> ACC0996 -> ACC1006 -> ACC1016 | Transactions: TXN00499, TXN00500, TXN00501"
+LAYERED_NETWORK,ACC0987,3,"Transaction chain: ACC0987 -> ACC0997 -> ACC1007 -> ACC1017 | Transactions: TXN00502, TXN00503, TXN00504"
+LAYERED_NETWORK,ACC0988,3,"Transaction chain: ACC0988 -> ACC0998 -> ACC1008 -> ACC1018 | Transactions: TXN00505, TXN00506, TXN00507"
+LAYERED_NETWORK,ACC0989,3,"Transaction chain: ACC0989 -> ACC0999 -> ACC1009 -> ACC1019 | Transactions: TXN00508, TXN00509, TXN00510"
+LAYERED_NETWORK,ACC0980,3,"Transaction chain: ACC0980 -> ACC0990 -> ACC1000 -> ACC1010 | Transactions: TXN00511, TXN00512, TXN00513"
+LAYERED_NETWORK,ACC0981,3,"Transaction chain: ACC0981 -> ACC0991 -> ACC1001 -> ACC1011 | Transactions: TXN00514, TXN00515, TXN00516"
+LAYERED_NETWORK,ACC0982,3,"Transaction chain: ACC0982 -> ACC0992 -> ACC1002 -> ACC1012 | Transactions: TXN00517, TXN00518, TXN00519"
+LAYERED_NETWORK,ACC0983,3,"Transaction chain: ACC0983 -> ACC0993 -> ACC1003 -> ACC1013 | Transactions: TXN00520, TXN00521, TXN00522"
+LAYERED_NETWORK,ACC0984,3,"Transaction chain: ACC0984 -> ACC0994 -> ACC1004 -> ACC1014 | Transactions: TXN00523, TXN00524, TXN00525"
+LAYERED_NETWORK,ACC0985,3,"Transaction chain: ACC0985 -> ACC0995 -> ACC1005 -> ACC1015 | Transactions: TXN00526, TXN00527, TXN00528"
+LAYERED_NETWORK,ACC0986,3,"Transaction chain: ACC0986 -> ACC0996 -> ACC1006 -> ACC1016 | Transactions: TXN00529, TXN00530, TXN00531"
+LAYERED_NETWORK,ACC0987,3,"Transaction chain: ACC0987 -> ACC0997 -> ACC1007 -> ACC1017 | Transactions: TXN00532, TXN00533, TXN00534"
+LAYERED_NETWORK,ACC0988,3,"Transaction chain: ACC0988 -> ACC0998 -> ACC1008 -> ACC1018 | Transactions: TXN00535, TXN00536, TXN00537"
+LAYERED_NETWORK,ACC0989,3,"Transaction chain: ACC0989 -> ACC0999 -> ACC1009 -> ACC1019 | Transactions: TXN00538, TXN00539, TXN00540"
+LAYERED_NETWORK,ACC0980,3,"Transaction chain: ACC0980 -> ACC0990 -> ACC1000 -> ACC1010 | Transactions: TXN00541, TXN00542, TXN00543"
+LAYERED_NETWORK,ACC0981,3,"Transaction chain: ACC0981 -> ACC0991 -> ACC1001 -> ACC1011 | Transactions: TXN00544, TXN00545, TXN00546"
+LAYERED_NETWORK,ACC0982,3,"Transaction chain: ACC0982 -> ACC0992 -> ACC1002 -> ACC1012 | Transactions: TXN00547, TXN00548, TXN00549"
+LAYERED_NETWORK,ACC0983,3,"Transaction chain: ACC0983 -> ACC0993 -> ACC1003 -> ACC1013 | Transactions: TXN00550, TXN00551, TXN00552"
+LAYERED_NETWORK,ACC0984,3,"Transaction chain: ACC0984 -> ACC0994 -> ACC1004 -> ACC1014 | Transactions: TXN00553, TXN00554, TXN00555"
+LAYERED_NETWORK,ACC0985,3,"Transaction chain: ACC0985 -> ACC0995 -> ACC1005 -> ACC1015 | Transactions: TXN00556, TXN00557, TXN00558"
+LAYERED_NETWORK,ACC0986,3,"Transaction chain: ACC0986 -> ACC0996 -> ACC1006 -> ACC1016 | Transactions: TXN00559, TXN00560, TXN00561"
+LAYERED_NETWORK,ACC0987,3,"Transaction chain: ACC0987 -> ACC0997 -> ACC1007 -> ACC1017 | Transactions: TXN00562, TXN00563, TXN00564"
+LAYERED_NETWORK,ACC0988,3,"Transaction chain: ACC0988 -> ACC0998 -> ACC1008 -> ACC1018 | Transactions: TXN00565, TXN00566, TXN00567"
+LAYERED_NETWORK,ACC0989,3,"Transaction chain: ACC0989 -> ACC0999 -> ACC1009 -> ACC1019 | Transactions: TXN00568, TXN00569, TXN00570"
+LAYERED_NETWORK,ACC0980,3,"Transaction chain: ACC0980 -> ACC0990 -> ACC1000 -> ACC1010 | Transactions: TXN00571, TXN00572, TXN00573"
+LAYERED_NETWORK,ACC0981,3,"Transaction chain: ACC0981 -> ACC0991 -> ACC1001 -> ACC1011 | Transactions: TXN00574, TXN00575, TXN00576"
+LAYERED_NETWORK,ACC0982,3,"Transaction chain: ACC0982 -> ACC0992 -> ACC1002 -> ACC1012 | Transactions: TXN00577, TXN00578, TXN00579"
+LAYERED_NETWORK,ACC0983,3,"Transaction chain: ACC0983 -> ACC0993 -> ACC1003 -> ACC1013 | Transactions: TXN00580, TXN00581, TXN00582"
+LAYERED_NETWORK,ACC0984,3,"Transaction chain: ACC0984 -> ACC0994 -> ACC1004 -> ACC1014 | Transactions: TXN00583, TXN00584, TXN00585"
+LAYERED_NETWORK,ACC0985,3,"Transaction chain: ACC0985 -> ACC0995 -> ACC1005 -> ACC1015 | Transactions: TXN00586, TXN00587, TXN00588"
+LAYERED_NETWORK,ACC0986,3,"Transaction chain: ACC0986 -> ACC0996 -> ACC1006 -> ACC1016 | Transactions: TXN00589, TXN00590, TXN00591"
+LAYERED_NETWORK,ACC0987,3,"Transaction chain: ACC0987 -> ACC0997 -> ACC1007 -> ACC1017 | Transactions: TXN00592, TXN00593, TXN00594"
+LAYERED_NETWORK,ACC0988,3,"Transaction chain: ACC0988 -> ACC0998 -> ACC1008 -> ACC1018 | Transactions: TXN00595, TXN00596, TXN00597"
+LAYERED_NETWORK,ACC0989,3,"Transaction chain: ACC0989 -> ACC0999 -> ACC1009 -> ACC1019 | Transactions: TXN00598, TXN00599, TXN00600"
+LAYERED_NETWORK,ACC1030,3,"Transaction chain: ACC1030 -> ACC1040 -> ACC1050 -> ACC1060 | Transactions: TXN00601, TXN00602, TXN00603"
+LAYERED_NETWORK,ACC1040,3,"Transaction chain: ACC1040 -> ACC1050 -> ACC1060 -> ACC1070 | Transactions: TXN00602, TXN00603, TXN00604"
+LAYERED_NETWORK,ACC1041,3,"Transaction chain: ACC1041 -> ACC1051 -> ACC1061 -> ACC1071 | Transactions: TXN00606, TXN00607, TXN00608"
+LAYERED_NETWORK,ACC1032,3,"Transaction chain: ACC1032 -> ACC1042 -> ACC1052 -> ACC1062 | Transactions: TXN00613, TXN00614, TXN00615"
+LAYERED_NETWORK,ACC1033,3,"Transaction chain: ACC1033 -> ACC1043 -> ACC1053 -> ACC1063 | Transactions: TXN00617, TXN00618, TXN00619"
+LAYERED_NETWORK,ACC1043,3,"Transaction chain: ACC1043 -> ACC1053 -> ACC1063 -> ACC1073 | Transactions: TXN00618, TXN00619, TXN00620"
+LAYERED_NETWORK,ACC1034,3,"Transaction chain: ACC1034 -> ACC1044 -> ACC1054 -> ACC1064 | Transactions: TXN00621, TXN00622, TXN00623"
+LAYERED_NETWORK,ACC1044,3,"Transaction chain: ACC1044 -> ACC1054 -> ACC1064 -> ACC1074 | Transactions: TXN00622, TXN00623, TXN00624"
+LAYERED_NETWORK,ACC1045,3,"Transaction chain: ACC1045 -> ACC1055 -> ACC1065 -> ACC1075 | Transactions: TXN00626, TXN00627, TXN00628"
+LAYERED_NETWORK,ACC1036,3,"Transaction chain: ACC1036 -> ACC1046 -> ACC1056 -> ACC1066 | Transactions: TXN00633, TXN00634, TXN00635"
+LAYERED_NETWORK,ACC1037,3,"Transaction chain: ACC1037 -> ACC1047 -> ACC1057 -> ACC1067 | Transactions: TXN00637, TXN00638, TXN00639"
+LAYERED_NETWORK,ACC1047,3,"Transaction chain: ACC1047 -> ACC1057 -> ACC1067 -> ACC1077 | Transactions: TXN00638, TXN00639, TXN00640"
+LAYERED_NETWORK,ACC1038,3,"Transaction chain: ACC1038 -> ACC1048 -> ACC1058 -> ACC1068 | Transactions: TXN00641, TXN00642, TXN00643"
+LAYERED_NETWORK,ACC1048,3,"Transaction chain: ACC1048 -> ACC1058 -> ACC1068 -> ACC1078 | Transactions: TXN00642, TXN00643, TXN00644"
+LAYERED_NETWORK,ACC1049,3,"Transaction chain: ACC1049 -> ACC1059 -> ACC1069 -> ACC1079 | Transactions: TXN00646, TXN00647, TXN00648"
+LAYERED_NETWORK,ACC1030,3,"Transaction chain: ACC1030 -> ACC1040 -> ACC1050 -> ACC1060 | Transactions: TXN00653, TXN00654, TXN00655"
+LAYERED_NETWORK,ACC1031,3,"Transaction chain: ACC1031 -> ACC1041 -> ACC1051 -> ACC1061 | Transactions: TXN00657, TXN00658, TXN00659"
+LAYERED_NETWORK,ACC1041,3,"Transaction chain: ACC1041 -> ACC1051 -> ACC1061 -> ACC1071 | Transactions: TXN00658, TXN00659, TXN00660"
+LAYERED_NETWORK,ACC1032,3,"Transaction chain: ACC1032 -> ACC1042 -> ACC1052 -> ACC1062 | Transactions: TXN00661, TXN00662, TXN00663"
+LAYERED_NETWORK,ACC1042,3,"Transaction chain: ACC1042 -> ACC1052 -> ACC1062 -> ACC1072 | Transactions: TXN00662, TXN00663, TXN00664"
+LAYERED_NETWORK,ACC1043,3,"Transaction chain: ACC1043 -> ACC1053 -> ACC1063 -> ACC1073 | Transactions: TXN00666, TXN00667, TXN00668"
+LAYERED_NETWORK,ACC1034,3,"Transaction chain: ACC1034 -> ACC1044 -> ACC1054 -> ACC1064 | Transactions: TXN00673, TXN00674, TXN00675"
+LAYERED_NETWORK,ACC1035,3,"Transaction chain: ACC1035 -> ACC1045 -> ACC1055 -> ACC1065 | Transactions: TXN00677, TXN00678, TXN00679"
+LAYERED_NETWORK,ACC1045,3,"Transaction chain: ACC1045 -> ACC1055 -> ACC1065 -> ACC1075 | Transactions: TXN00678, TXN00679, TXN00680"
+LAYERED_NETWORK,ACC1036,3,"Transaction chain: ACC1036 -> ACC1046 -> ACC1056 -> ACC1066 | Transactions: TXN00681, TXN00682, TXN00683"
+LAYERED_NETWORK,ACC1046,3,"Transaction chain: ACC1046 -> ACC1056 -> ACC1066 -> ACC1076 | Transactions: TXN00682, TXN00683, TXN00684"
+LAYERED_NETWORK,ACC1047,3,"Transaction chain: ACC1047 -> ACC1057 -> ACC1067 -> ACC1077 | Transactions: TXN00686, TXN00687, TXN00688"
+LAYERED_NETWORK,ACC1038,3,"Transaction chain: ACC1038 -> ACC1048 -> ACC1058 -> ACC1068 | Transactions: TXN00693, TXN00694, TXN00695"
+LAYERED_NETWORK,ACC1039,3,"Transaction chain: ACC1039 -> ACC1049 -> ACC1059 -> ACC1069 | Transactions: TXN00697, TXN00698, TXN00699"
+LAYERED_NETWORK,ACC1049,3,"Transaction chain: ACC1049 -> ACC1059 -> ACC1069 -> ACC1079 | Transactions: TXN00698, TXN00699, TXN00700"
+LAYERED_NETWORK,ACC1030,3,"Transaction chain: ACC1030 -> ACC1040 -> ACC1050 -> ACC1060 | Transactions: TXN00701, TXN00702, TXN00703"
+LAYERED_NETWORK,ACC1040,3,"Transaction chain: ACC1040 -> ACC1050 -> ACC1060 -> ACC1070 | Transactions: TXN00702, TXN00703, TXN00704"
+LAYERED_NETWORK,ACC1041,3,"Transaction chain: ACC1041 -> ACC1051 -> ACC1061 -> ACC1071 | Transactions: TXN00706, TXN00707, TXN00708"
+LAYERED_NETWORK,ACC1032,3,"Transaction chain: ACC1032 -> ACC1042 -> ACC1052 -> ACC1062 | Transactions: TXN00713, TXN00714, TXN00715"
+LAYERED_NETWORK,ACC1033,3,"Transaction chain: ACC1033 -> ACC1043 -> ACC1053 -> ACC1063 | Transactions: TXN00717, TXN00718, TXN00719"
+LAYERED_NETWORK,ACC1043,3,"Transaction chain: ACC1043 -> ACC1053 -> ACC1063 -> ACC1073 | Transactions: TXN00718, TXN00719, TXN00720"
+LAYERED_NETWORK,ACC1034,3,"Transaction chain: ACC1034 -> ACC1044 -> ACC1054 -> ACC1064 | Transactions: TXN00721, TXN00722, TXN00723"
+LAYERED_NETWORK,ACC1044,3,"Transaction chain: ACC1044 -> ACC1054 -> ACC1064 -> ACC1074 | Transactions: TXN00722, TXN00723, TXN00724"
+LAYERED_NETWORK,ACC1045,3,"Transaction chain: ACC1045 -> ACC1055 -> ACC1065 -> ACC1075 | Transactions: TXN00726, TXN00727, TXN00728"
+LAYERED_NETWORK,ACC1036,3,"Transaction chain: ACC1036 -> ACC1046 -> ACC1056 -> ACC1066 | Transactions: TXN00733, TXN00734, TXN00735"
+LAYERED_NETWORK,ACC1037,3,"Transaction chain: ACC1037 -> ACC1047 -> ACC1057 -> ACC1067 | Transactions: TXN00737, TXN00738, TXN00739"
+LAYERED_NETWORK,ACC1047,3,"Transaction chain: ACC1047 -> ACC1057 -> ACC1067 -> ACC1077 | Transactions: TXN00738, TXN00739, TXN00740"
+LAYERED_NETWORK,ACC1038,3,"Transaction chain: ACC1038 -> ACC1048 -> ACC1058 -> ACC1068 | Transactions: TXN00741, TXN00742, TXN00743"
+LAYERED_NETWORK,ACC1048,3,"Transaction chain: ACC1048 -> ACC1058 -> ACC1068 -> ACC1078 | Transactions: TXN00742, TXN00743, TXN00744"
+LAYERED_NETWORK,ACC1049,3,"Transaction chain: ACC1049 -> ACC1059 -> ACC1069 -> ACC1079 | Transactions: TXN00746, TXN00747, TXN00748"

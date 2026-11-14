@@ -1,0 +1,399 @@
+account_id,risk_score,risk_level,cluster_id,transaction_count,unique_counterparties,total_transaction_amount,detected_patterns,explanation
+ACC0225,55,MEDIUM,1,6,6,13485.03,"CYCLE, FAN_OUT","Detected patterns: CYCLE, FAN_OUT | Connected to multiple unique counterparties"
+ACC0213,50,MEDIUM,1,10,9,49050.89,"FAN_IN, FAN_OUT","Detected patterns: FAN_IN, FAN_OUT | Connected to multiple unique counterparties | High transaction activity"
+ACC0987,45,MEDIUM,29,5,1,55788.73,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC0988,45,MEDIUM,30,5,1,28879.78,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC0989,45,MEDIUM,31,5,1,37908.2,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC0983,45,MEDIUM,25,5,1,55548.01,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC0980,45,MEDIUM,22,5,1,33232.75,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC0981,45,MEDIUM,23,5,1,35093.04,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC0202,45,MEDIUM,1,8,8,29453.92,"FAN_IN, FAN_OUT","Detected patterns: FAN_IN, FAN_OUT | Connected to multiple unique counterparties"
+ACC0984,45,MEDIUM,26,5,1,24481.07,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC0985,45,MEDIUM,27,5,1,38500.1,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC0986,45,MEDIUM,28,5,1,47737.7,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC0982,45,MEDIUM,24,5,1,37069.44,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC1000,45,MEDIUM,22,10,2,61607.55,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH | High transaction activity
+ACC1006,45,MEDIUM,28,10,2,83191.69,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH | High transaction activity
+ACC1038,40,MEDIUM,40,5,1,67626.69,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC1049,40,MEDIUM,41,8,2,94382.87,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC1045,40,MEDIUM,37,8,2,85356.82,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC1047,40,MEDIUM,39,7,2,117328.64,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC1041,40,MEDIUM,33,8,2,125503.96,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC0997,40,MEDIUM,29,10,2,87170.55,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH | High transaction activity
+ACC1002,40,MEDIUM,24,10,2,64012.76,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH | High transaction activity
+ACC0995,40,MEDIUM,27,10,2,79494.48,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH | High transaction activity
+ACC1043,40,MEDIUM,35,7,2,80811.67,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC1034,40,MEDIUM,36,5,1,68990.85,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC1030,40,MEDIUM,32,5,1,66548.13,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC1001,40,MEDIUM,23,10,2,86721.91,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH | High transaction activity
+ACC0913,40,MEDIUM,1,30,29,201260.57,FAN_OUT,Detected patterns: FAN_OUT | Connected to multiple unique counterparties | High transaction activity
+ACC0914,40,MEDIUM,1,30,30,147742.69,FAN_OUT,Detected patterns: FAN_OUT | Connected to multiple unique counterparties | High transaction activity
+ACC0912,40,MEDIUM,1,30,30,172965.17,FAN_OUT,Detected patterns: FAN_OUT | Connected to multiple unique counterparties | High transaction activity
+ACC0911,40,MEDIUM,1,30,28,198866.75,FAN_OUT,Detected patterns: FAN_OUT | Connected to multiple unique counterparties | High transaction activity
+ACC0910,40,MEDIUM,1,30,29,174101.0,FAN_OUT,Detected patterns: FAN_OUT | Connected to multiple unique counterparties | High transaction activity
+ACC0904,40,MEDIUM,1,30,30,189083.36,FAN_IN,Detected patterns: FAN_IN | Connected to multiple unique counterparties | High transaction activity
+ACC0903,40,MEDIUM,1,30,29,166429.78,FAN_IN,Detected patterns: FAN_IN | Connected to multiple unique counterparties | High transaction activity
+ACC0902,40,MEDIUM,1,30,30,186012.16,FAN_IN,Detected patterns: FAN_IN | Connected to multiple unique counterparties | High transaction activity
+ACC0901,40,MEDIUM,1,30,28,189492.14,FAN_IN,Detected patterns: FAN_IN | Connected to multiple unique counterparties | High transaction activity
+ACC0900,40,MEDIUM,1,30,29,178974.73,FAN_IN,Detected patterns: FAN_IN | Connected to multiple unique counterparties | High transaction activity
+ACC1048,35,LOW,40,8,2,105671.25,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC1057,35,LOW,39,7,2,118970.56,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH
+ACC0994,35,LOW,26,10,2,77007.05,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH | High transaction activity
+ACC1005,35,LOW,27,10,2,83444.21,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH | High transaction activity
+ACC1044,35,LOW,36,8,2,127533.94,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC1040,35,LOW,32,8,2,102668.35,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC1008,35,LOW,30,10,2,76332.69,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH | High transaction activity
+ACC1007,35,LOW,29,10,2,64191.76,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH | High transaction activity
+ACC0992,35,LOW,24,10,2,69684.87,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH | High transaction activity
+ACC1004,35,LOW,26,10,2,89593.06,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH | High transaction activity
+ACC0996,35,LOW,28,10,2,83558.55,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH | High transaction activity
+ACC0990,35,LOW,22,10,2,58072.35,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH | High transaction activity
+ACC1066,30,LOW,38,8,2,136933.61,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH
+ACC1042,30,LOW,34,7,2,100843.1,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC1051,30,LOW,33,8,2,104009.04,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH
+ACC1052,30,LOW,34,8,2,76528.99,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH
+ACC1032,30,LOW,34,4,1,73406.26,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC1036,30,LOW,38,4,1,30340.81,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC1046,30,LOW,38,7,2,60104.24,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC1067,30,LOW,39,8,2,88333.4,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH
+ACC0958,30,LOW,8,6,2,35184.98,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH
+ACC0940,25,LOW,2,6,2,37453.16,CYCLE,Detected patterns: CYCLE
+ACC0972,25,LOW,6,6,2,37795.12,CYCLE,Detected patterns: CYCLE
+ACC0116,25,LOW,1,5,5,20109.74,FAN_IN,Detected patterns: FAN_IN | Connected to multiple unique counterparties
+ACC0191,25,LOW,1,5,5,13302.59,FAN_IN,Detected patterns: FAN_IN | Connected to multiple unique counterparties
+ACC0034,25,LOW,1,5,5,17285.6,FAN_IN,Detected patterns: FAN_IN | Connected to multiple unique counterparties
+ACC0174,25,LOW,1,8,7,34212.6,FAN_IN,Detected patterns: FAN_IN | Connected to multiple unique counterparties
+ACC0935,25,LOW,7,6,2,26189.63,CYCLE,Detected patterns: CYCLE
+ACC0234,25,LOW,1,5,5,19186.38,FAN_IN,Detected patterns: FAN_IN | Connected to multiple unique counterparties
+ACC0949,25,LOW,5,6,2,32916.03,CYCLE,Detected patterns: CYCLE
+ACC0172,25,LOW,1,5,5,13990.24,FAN_IN,Detected patterns: FAN_IN | Connected to multiple unique counterparties
+ACC0040,25,LOW,1,5,5,14580.7,FAN_OUT,Detected patterns: FAN_OUT | Connected to multiple unique counterparties
+ACC0067,25,LOW,1,6,5,12229.13,FAN_OUT,Detected patterns: FAN_OUT | Connected to multiple unique counterparties
+ACC0144,25,LOW,1,6,5,16154.69,FAN_OUT,Detected patterns: FAN_OUT | Connected to multiple unique counterparties
+ACC0186,25,LOW,1,6,6,27822.78,FAN_IN,Detected patterns: FAN_IN | Connected to multiple unique counterparties
+ACC1037,25,LOW,39,3,1,45799.08,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC0042,25,LOW,1,5,5,17627.12,FAN_OUT,Detected patterns: FAN_OUT | Connected to multiple unique counterparties
+ACC0102,25,LOW,1,5,5,20016.2,FAN_IN,Detected patterns: FAN_IN | Connected to multiple unique counterparties
+ACC0236,25,LOW,1,5,5,8018.79,FAN_IN,Detected patterns: FAN_IN | Connected to multiple unique counterparties
+ACC0170,25,LOW,1,7,7,26634.7,FAN_OUT,Detected patterns: FAN_OUT | Connected to multiple unique counterparties
+ACC0121,25,LOW,1,7,7,21887.99,FAN_IN,Detected patterns: FAN_IN | Connected to multiple unique counterparties
+ACC0183,25,LOW,1,5,5,16764.08,FAN_OUT,Detected patterns: FAN_OUT | Connected to multiple unique counterparties
+ACC0209,25,LOW,1,6,6,19876.17,FAN_OUT,Detected patterns: FAN_OUT | Connected to multiple unique counterparties
+ACC0035,25,LOW,1,7,7,29017.32,FAN_OUT,Detected patterns: FAN_OUT | Connected to multiple unique counterparties
+ACC0011,25,LOW,1,6,6,13924.08,FAN_IN,Detected patterns: FAN_IN | Connected to multiple unique counterparties
+ACC1033,25,LOW,35,3,1,35878.66,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC0098,25,LOW,1,7,7,35438.19,FAN_OUT,Detected patterns: FAN_OUT | Connected to multiple unique counterparties
+ACC0961,25,LOW,9,6,2,19927.6,CYCLE,Detected patterns: CYCLE
+ACC0947,25,LOW,11,6,2,21696.0,CYCLE,Detected patterns: CYCLE
+ACC0039,25,LOW,1,6,6,11385.43,FAN_OUT,Detected patterns: FAN_OUT | Connected to multiple unique counterparties
+ACC0026,25,LOW,1,6,6,33927.66,FAN_IN,Detected patterns: FAN_IN | Connected to multiple unique counterparties
+ACC0142,25,LOW,1,7,7,32475.94,FAN_OUT,Detected patterns: FAN_OUT | Connected to multiple unique counterparties
+ACC0214,25,LOW,1,9,9,24423.03,FAN_OUT,Detected patterns: FAN_OUT | Connected to multiple unique counterparties
+ACC0211,25,LOW,1,5,5,14955.3,FAN_IN,Detected patterns: FAN_IN | Connected to multiple unique counterparties
+ACC0964,25,LOW,10,6,2,28216.65,CYCLE,Detected patterns: CYCLE
+ACC0147,25,LOW,1,5,5,13915.85,FAN_IN,Detected patterns: FAN_IN | Connected to multiple unique counterparties
+ACC0978,25,LOW,8,6,2,30775.0,CYCLE,Detected patterns: CYCLE
+ACC0943,25,LOW,3,6,2,37058.85,CYCLE,Detected patterns: CYCLE
+ACC0946,25,LOW,4,6,2,34704.46,CYCLE,Detected patterns: CYCLE
+ACC0072,20,LOW,1,6,6,29547.21,,Connected to multiple unique counterparties
+ACC0180,20,LOW,1,5,5,9285.75,,Connected to multiple unique counterparties
+ACC0238,20,LOW,1,5,5,22014.97,,Connected to multiple unique counterparties
+ACC0119,20,LOW,1,5,5,28539.4,,Connected to multiple unique counterparties
+ACC0176,20,LOW,1,5,5,20679.83,,Connected to multiple unique counterparties
+ACC0192,20,LOW,1,5,5,10622.62,,Connected to multiple unique counterparties
+ACC0153,20,LOW,1,5,5,27517.38,,Connected to multiple unique counterparties
+ACC0024,20,LOW,1,6,5,50657.46,,Connected to multiple unique counterparties
+ACC1039,20,LOW,41,3,1,56227.99,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC0156,20,LOW,1,5,5,37862.44,,Connected to multiple unique counterparties
+ACC0166,20,LOW,1,5,5,15794.85,,Connected to multiple unique counterparties
+ACC0107,20,LOW,1,5,5,10280.63,,Connected to multiple unique counterparties
+ACC0201,20,LOW,1,5,5,22151.27,,Connected to multiple unique counterparties
+ACC0948,20,LOW,18,4,2,16246.61,RAPID_PASS_THROUGH,Detected patterns: RAPID_PASS_THROUGH
+ACC0229,20,LOW,1,5,5,22516.34,,Connected to multiple unique counterparties
+ACC0094,20,LOW,1,5,5,15211.29,,Connected to multiple unique counterparties
+ACC0081,20,LOW,1,5,5,20449.82,,Connected to multiple unique counterparties
+ACC0113,20,LOW,1,5,5,21864.81,,Connected to multiple unique counterparties
+ACC0126,20,LOW,1,5,5,18156.64,,Connected to multiple unique counterparties
+ACC0071,20,LOW,1,7,6,38073.23,,Connected to multiple unique counterparties
+ACC0085,20,LOW,1,5,5,15626.38,,Connected to multiple unique counterparties
+ACC1031,20,LOW,33,3,1,59276.37,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC0206,20,LOW,1,5,5,15431.15,,Connected to multiple unique counterparties
+ACC1035,20,LOW,37,3,1,15660.15,LAYERED_NETWORK,Detected patterns: LAYERED_NETWORK
+ACC0991,15,LOW,23,10,2,71478.31,,High transaction activity
+ACC0957,15,LOW,21,4,2,23658.78,CYCLE,Detected patterns: CYCLE
+ACC0999,15,LOW,31,10,2,73654.03,,High transaction activity
+ACC1009,15,LOW,31,10,2,66099.43,,High transaction activity
+ACC1003,15,LOW,25,10,2,74391.17,,High transaction activity
+ACC0998,15,LOW,30,10,2,71618.35,,High transaction activity
+ACC0993,15,LOW,25,10,2,94502.99,,High transaction activity
+ACC0939,15,LOW,15,4,2,16876.99,CYCLE,Detected patterns: CYCLE
+ACC0950,15,LOW,12,4,2,25558.96,CYCLE,Detected patterns: CYCLE
+ACC0931,15,LOW,19,4,2,14905.94,CYCLE,Detected patterns: CYCLE
+ACC0973,15,LOW,13,4,2,16793.37,CYCLE,Detected patterns: CYCLE
+ACC0976,15,LOW,14,4,2,21410.97,CYCLE,Detected patterns: CYCLE
+ACC0968,15,LOW,18,4,2,25798.39,CYCLE,Detected patterns: CYCLE
+ACC0061,15,LOW,1,6,6,9748.05,FAN_OUT,Detected patterns: FAN_OUT | Connected to multiple unique counterparties
+ACC0922,15,LOW,16,4,2,15329.41,CYCLE,Detected patterns: CYCLE
+ACC0934,15,LOW,20,4,2,20533.51,CYCLE,Detected patterns: CYCLE
+ACC0925,15,LOW,17,4,2,26850.76,CYCLE,Detected patterns: CYCLE
+ACC0222,10,LOW,1,5,4,23257.24,,No specific alert reason recorded; review underlying activity if needed
+ACC1077,10,LOW,39,5,1,40892.4,,No specific alert reason recorded; review underlying activity if needed
+ACC1068,10,LOW,40,7,2,86387.7,,No specific alert reason recorded; review underlying activity if needed
+ACC1058,10,LOW,40,7,2,90971.22,,No specific alert reason recorded; review underlying activity if needed
+ACC1059,10,LOW,41,8,2,70697.52,,No specific alert reason recorded; review underlying activity if needed
+ACC1069,10,LOW,41,7,2,70475.9,,No specific alert reason recorded; review underlying activity if needed
+ACC1065,10,LOW,37,7,2,106362.08,,No specific alert reason recorded; review underlying activity if needed
+ACC1064,10,LOW,36,7,2,100911.37,,No specific alert reason recorded; review underlying activity if needed
+ACC1056,10,LOW,38,8,2,106453.49,,No specific alert reason recorded; review underlying activity if needed
+ACC1053,10,LOW,35,7,2,87552.32,,No specific alert reason recorded; review underlying activity if needed
+ACC1054,10,LOW,36,7,2,130215.84,,No specific alert reason recorded; review underlying activity if needed
+ACC1060,10,LOW,32,7,2,114112.19,,No specific alert reason recorded; review underlying activity if needed
+ACC1055,10,LOW,37,8,2,109414.46,,No specific alert reason recorded; review underlying activity if needed
+ACC1062,10,LOW,34,8,2,83109.26,,No specific alert reason recorded; review underlying activity if needed
+ACC1063,10,LOW,35,8,2,109586.8,,No specific alert reason recorded; review underlying activity if needed
+ACC1073,10,LOW,35,5,1,66967.49,,No specific alert reason recorded; review underlying activity if needed
+ACC0084,10,LOW,1,5,4,17293.82,,No specific alert reason recorded; review underlying activity if needed
+ACC1012,10,LOW,24,5,1,31397.33,,No specific alert reason recorded; review underlying activity if needed
+ACC1013,10,LOW,25,5,1,35436.19,,No specific alert reason recorded; review underlying activity if needed
+ACC1015,10,LOW,27,5,1,42449.83,,No specific alert reason recorded; review underlying activity if needed
+ACC1014,10,LOW,26,5,1,37067.08,,No specific alert reason recorded; review underlying activity if needed
+ACC1019,10,LOW,31,5,1,30353.6,,No specific alert reason recorded; review underlying activity if needed
+ACC1018,10,LOW,30,5,1,33594.12,,No specific alert reason recorded; review underlying activity if needed
+ACC1017,10,LOW,29,5,1,32809.94,,No specific alert reason recorded; review underlying activity if needed
+ACC1016,10,LOW,28,5,1,47370.84,,No specific alert reason recorded; review underlying activity if needed
+ACC1061,10,LOW,33,7,2,107611.79,,No specific alert reason recorded; review underlying activity if needed
+ACC1050,10,LOW,32,7,2,106339.5,,No specific alert reason recorded; review underlying activity if needed
+ACC1011,10,LOW,23,5,1,50336.64,,No specific alert reason recorded; review underlying activity if needed
+ACC1010,10,LOW,22,5,1,36767.95,,No specific alert reason recorded; review underlying activity if needed
+ACC0924,10,LOW,10,6,2,28318.06,,No specific alert reason recorded; review underlying activity if needed
+ACC0967,10,LOW,11,6,2,26734.28,,No specific alert reason recorded; review underlying activity if needed
+ACC0927,10,LOW,11,6,2,33622.52,,No specific alert reason recorded; review underlying activity if needed
+ACC0944,10,LOW,10,6,2,22120.31,,No specific alert reason recorded; review underlying activity if needed
+ACC0975,10,LOW,7,6,2,26916.08,,No specific alert reason recorded; review underlying activity if needed
+ACC0938,10,LOW,8,6,2,38410.96,,No specific alert reason recorded; review underlying activity if needed
+ACC0941,10,LOW,9,6,2,23306.74,,No specific alert reason recorded; review underlying activity if needed
+ACC0921,10,LOW,9,6,2,25695.72,,No specific alert reason recorded; review underlying activity if needed
+ACC0952,10,LOW,6,6,2,32025.99,,No specific alert reason recorded; review underlying activity if needed
+ACC0955,10,LOW,7,6,2,25989.95,,No specific alert reason recorded; review underlying activity if needed
+ACC0969,10,LOW,5,6,2,25634.28,,No specific alert reason recorded; review underlying activity if needed
+ACC0932,10,LOW,6,6,2,40467.33,,No specific alert reason recorded; review underlying activity if needed
+ACC0960,10,LOW,2,6,2,35187.67,,No specific alert reason recorded; review underlying activity if needed
+ACC0923,10,LOW,3,6,2,33155.74,,No specific alert reason recorded; review underlying activity if needed
+ACC0963,10,LOW,3,6,2,31563.49,,No specific alert reason recorded; review underlying activity if needed
+ACC0926,10,LOW,4,6,2,38407.41,,No specific alert reason recorded; review underlying activity if needed
+ACC0929,10,LOW,5,6,2,29830.33,,No specific alert reason recorded; review underlying activity if needed
+ACC0966,10,LOW,4,6,2,43049.25,,No specific alert reason recorded; review underlying activity if needed
+ACC0920,10,LOW,2,6,2,42633.87,,No specific alert reason recorded; review underlying activity if needed
+ACC0168,10,LOW,1,5,4,8196.8,,No specific alert reason recorded; review underlying activity if needed
+ACC0045,5,LOW,1,4,4,9987.35,FAN_IN,Detected patterns: FAN_IN
+ACC0106,5,LOW,1,4,4,13945.24,FAN_IN,Detected patterns: FAN_IN
+ACC0133,5,LOW,1,4,4,20258.48,FAN_OUT,Detected patterns: FAN_OUT
+ACC0173,5,LOW,1,4,4,16289.98,FAN_OUT,Detected patterns: FAN_OUT
+ACC0130,5,LOW,1,4,4,18457.13,FAN_OUT,Detected patterns: FAN_OUT
+ACC0124,5,LOW,1,4,4,8388.4,FAN_OUT,Detected patterns: FAN_OUT
+ACC0187,0,LOW,1,4,4,13338.91,,No specific alert reason recorded; review underlying activity if needed
+ACC0012,0,LOW,1,4,4,16788.73,,No specific alert reason recorded; review underlying activity if needed
+ACC0195,0,LOW,1,2,2,18997.17,,No specific alert reason recorded; review underlying activity if needed
+ACC0025,0,LOW,1,4,4,8812.18,,No specific alert reason recorded; review underlying activity if needed
+ACC0193,0,LOW,1,3,3,5153.18,,No specific alert reason recorded; review underlying activity if needed
+ACC0049,0,LOW,1,1,1,832.77,,No specific alert reason recorded; review underlying activity if needed
+ACC0032,0,LOW,1,3,3,6334.48,,No specific alert reason recorded; review underlying activity if needed
+ACC0198,0,LOW,1,2,2,5377.46,,No specific alert reason recorded; review underlying activity if needed
+ACC0008,0,LOW,1,1,1,1938.96,,No specific alert reason recorded; review underlying activity if needed
+ACC0220,0,LOW,1,2,2,5952.39,,No specific alert reason recorded; review underlying activity if needed
+ACC0137,0,LOW,1,2,2,6775.43,,No specific alert reason recorded; review underlying activity if needed
+ACC0005,0,LOW,1,2,2,1984.19,,No specific alert reason recorded; review underlying activity if needed
+ACC0164,0,LOW,1,3,3,25111.32,,No specific alert reason recorded; review underlying activity if needed
+ACC0189,0,LOW,1,4,4,9997.44,,No specific alert reason recorded; review underlying activity if needed
+ACC0017,0,LOW,1,3,3,3255.33,,No specific alert reason recorded; review underlying activity if needed
+ACC0150,0,LOW,1,2,2,1322.29,,No specific alert reason recorded; review underlying activity if needed
+ACC0233,0,LOW,1,3,3,9420.65,,No specific alert reason recorded; review underlying activity if needed
+ACC0190,0,LOW,1,2,2,2624.62,,No specific alert reason recorded; review underlying activity if needed
+ACC0038,0,LOW,1,2,2,4276.98,,No specific alert reason recorded; review underlying activity if needed
+ACC0053,0,LOW,1,1,1,2710.45,,No specific alert reason recorded; review underlying activity if needed
+ACC0228,0,LOW,1,3,3,7233.84,,No specific alert reason recorded; review underlying activity if needed
+ACC0139,0,LOW,1,1,1,3474.62,,No specific alert reason recorded; review underlying activity if needed
+ACC0136,0,LOW,1,2,2,8435.86,,No specific alert reason recorded; review underlying activity if needed
+ACC0021,0,LOW,1,3,3,12693.58,,No specific alert reason recorded; review underlying activity if needed
+ACC0080,0,LOW,1,3,3,7311.33,,No specific alert reason recorded; review underlying activity if needed
+ACC0111,0,LOW,1,2,2,9328.87,,No specific alert reason recorded; review underlying activity if needed
+ACC0208,0,LOW,1,2,2,12836.29,,No specific alert reason recorded; review underlying activity if needed
+ACC0223,0,LOW,1,2,2,14413.07,,No specific alert reason recorded; review underlying activity if needed
+ACC0140,0,LOW,1,2,2,7683.46,,No specific alert reason recorded; review underlying activity if needed
+ACC0007,0,LOW,1,1,1,2589.17,,No specific alert reason recorded; review underlying activity if needed
+ACC0047,0,LOW,1,2,2,15084.29,,No specific alert reason recorded; review underlying activity if needed
+ACC0037,0,LOW,1,2,2,12996.27,,No specific alert reason recorded; review underlying activity if needed
+ACC0097,0,LOW,1,4,4,13631.49,,No specific alert reason recorded; review underlying activity if needed
+ACC0029,0,LOW,1,2,2,7241.22,,No specific alert reason recorded; review underlying activity if needed
+ACC0182,0,LOW,1,1,1,7861.63,,No specific alert reason recorded; review underlying activity if needed
+ACC0248,0,LOW,1,2,2,7784.58,,No specific alert reason recorded; review underlying activity if needed
+ACC0023,0,LOW,1,3,3,6922.04,,No specific alert reason recorded; review underlying activity if needed
+ACC0135,0,LOW,1,3,3,10188.17,,No specific alert reason recorded; review underlying activity if needed
+ACC0118,0,LOW,1,4,4,16558.07,,No specific alert reason recorded; review underlying activity if needed
+ACC0051,0,LOW,1,3,3,18902.16,,No specific alert reason recorded; review underlying activity if needed
+ACC0052,0,LOW,1,4,4,10068.58,,No specific alert reason recorded; review underlying activity if needed
+ACC0221,0,LOW,1,2,2,11712.55,,No specific alert reason recorded; review underlying activity if needed
+ACC0095,0,LOW,1,2,2,11259.64,,No specific alert reason recorded; review underlying activity if needed
+ACC0227,0,LOW,1,3,3,10019.48,,No specific alert reason recorded; review underlying activity if needed
+ACC0058,0,LOW,1,3,3,19617.64,,No specific alert reason recorded; review underlying activity if needed
+ACC0217,0,LOW,1,3,3,9655.21,,No specific alert reason recorded; review underlying activity if needed
+ACC0205,0,LOW,1,2,2,5347.51,,No specific alert reason recorded; review underlying activity if needed
+ACC0018,0,LOW,1,1,1,10042.91,,No specific alert reason recorded; review underlying activity if needed
+ACC0930,0,LOW,12,4,2,15908.95,,No specific alert reason recorded; review underlying activity if needed
+ACC0110,0,LOW,1,3,3,13200.48,,No specific alert reason recorded; review underlying activity if needed
+ACC0933,0,LOW,13,4,2,14546.81,,No specific alert reason recorded; review underlying activity if needed
+ACC0953,0,LOW,13,4,2,27087.26,,No specific alert reason recorded; review underlying activity if needed
+ACC0936,0,LOW,14,4,2,21813.36,,No specific alert reason recorded; review underlying activity if needed
+ACC0970,0,LOW,12,4,2,21457.19,,No specific alert reason recorded; review underlying activity if needed
+ACC0956,0,LOW,14,4,2,21845.15,,No specific alert reason recorded; review underlying activity if needed
+ACC0959,0,LOW,15,4,2,22966.33,,No specific alert reason recorded; review underlying activity if needed
+ACC0155,0,LOW,1,3,3,12050.0,,No specific alert reason recorded; review underlying activity if needed
+ACC0979,0,LOW,15,4,2,16653.16,,No specific alert reason recorded; review underlying activity if needed
+ACC0196,0,LOW,1,4,4,16733.18,,No specific alert reason recorded; review underlying activity if needed
+ACC0086,0,LOW,1,2,2,13652.03,,No specific alert reason recorded; review underlying activity if needed
+ACC0161,0,LOW,1,2,2,7200.86,,No specific alert reason recorded; review underlying activity if needed
+ACC0239,0,LOW,1,1,1,8740.94,,No specific alert reason recorded; review underlying activity if needed
+ACC0179,0,LOW,1,2,2,6021.28,,No specific alert reason recorded; review underlying activity if needed
+ACC0224,0,LOW,1,1,1,10217.95,,No specific alert reason recorded; review underlying activity if needed
+ACC0185,0,LOW,1,3,3,10030.78,,No specific alert reason recorded; review underlying activity if needed
+ACC0245,0,LOW,1,2,2,8508.59,,No specific alert reason recorded; review underlying activity if needed
+ACC0159,0,LOW,1,2,2,3753.62,,No specific alert reason recorded; review underlying activity if needed
+ACC0114,0,LOW,1,3,3,12857.82,,No specific alert reason recorded; review underlying activity if needed
+ACC0044,0,LOW,1,1,1,2513.3,,No specific alert reason recorded; review underlying activity if needed
+ACC0128,0,LOW,1,4,4,15360.06,,No specific alert reason recorded; review underlying activity if needed
+ACC0942,0,LOW,16,4,2,21514.19,,No specific alert reason recorded; review underlying activity if needed
+ACC0962,0,LOW,16,4,2,18685.64,,No specific alert reason recorded; review underlying activity if needed
+ACC0945,0,LOW,17,4,2,16701.36,,No specific alert reason recorded; review underlying activity if needed
+ACC0965,0,LOW,17,4,2,21159.94,,No specific alert reason recorded; review underlying activity if needed
+ACC0006,0,LOW,1,2,2,4549.79,,No specific alert reason recorded; review underlying activity if needed
+ACC0065,0,LOW,1,2,2,3991.34,,No specific alert reason recorded; review underlying activity if needed
+ACC0009,0,LOW,1,1,1,842.67,,No specific alert reason recorded; review underlying activity if needed
+ACC0057,0,LOW,1,4,4,17255.57,,No specific alert reason recorded; review underlying activity if needed
+ACC0954,0,LOW,20,4,2,17965.98,,No specific alert reason recorded; review underlying activity if needed
+ACC0971,0,LOW,19,4,2,18656.23,,No specific alert reason recorded; review underlying activity if needed
+ACC0951,0,LOW,19,4,2,17036.65,,No specific alert reason recorded; review underlying activity if needed
+ACC0928,0,LOW,18,4,2,25330.82,,No specific alert reason recorded; review underlying activity if needed
+ACC0050,0,LOW,1,2,2,6093.67,,No specific alert reason recorded; review underlying activity if needed
+ACC0250,0,LOW,1,3,3,13409.45,,No specific alert reason recorded; review underlying activity if needed
+ACC0091,0,LOW,1,4,4,19780.58,,No specific alert reason recorded; review underlying activity if needed
+ACC0974,0,LOW,20,4,2,23005.37,,No specific alert reason recorded; review underlying activity if needed
+ACC0199,0,LOW,1,3,3,13771.38,,No specific alert reason recorded; review underlying activity if needed
+ACC0079,0,LOW,1,4,4,16115.71,,No specific alert reason recorded; review underlying activity if needed
+ACC0243,0,LOW,1,3,3,10710.65,,No specific alert reason recorded; review underlying activity if needed
+ACC0041,0,LOW,1,2,2,4162.38,,No specific alert reason recorded; review underlying activity if needed
+ACC0105,0,LOW,1,3,3,12921.11,,No specific alert reason recorded; review underlying activity if needed
+ACC0060,0,LOW,1,2,2,5142.35,,No specific alert reason recorded; review underlying activity if needed
+ACC0027,0,LOW,1,3,3,11618.78,,No specific alert reason recorded; review underlying activity if needed
+ACC0937,0,LOW,21,4,2,25149.81,,No specific alert reason recorded; review underlying activity if needed
+ACC0212,0,LOW,1,3,3,5448.05,,No specific alert reason recorded; review underlying activity if needed
+ACC0977,0,LOW,21,4,2,24534.03,,No specific alert reason recorded; review underlying activity if needed
+ACC0062,0,LOW,1,3,3,9931.01,,No specific alert reason recorded; review underlying activity if needed
+ACC0154,0,LOW,1,4,4,13483.77,,No specific alert reason recorded; review underlying activity if needed
+ACC0247,0,LOW,1,4,4,6835.95,,No specific alert reason recorded; review underlying activity if needed
+ACC0231,0,LOW,1,4,4,11115.77,,No specific alert reason recorded; review underlying activity if needed
+ACC0087,0,LOW,1,4,4,17746.78,,No specific alert reason recorded; review underlying activity if needed
+ACC0169,0,LOW,1,3,3,15806.55,,No specific alert reason recorded; review underlying activity if needed
+ACC0002,0,LOW,1,3,3,5028.31,,No specific alert reason recorded; review underlying activity if needed
+ACC0232,0,LOW,1,3,3,15030.32,,No specific alert reason recorded; review underlying activity if needed
+ACC0063,0,LOW,1,4,4,28172.08,,No specific alert reason recorded; review underlying activity if needed
+ACC0138,0,LOW,1,1,1,5659.06,,No specific alert reason recorded; review underlying activity if needed
+ACC0064,0,LOW,1,2,2,14739.9,,No specific alert reason recorded; review underlying activity if needed
+ACC0013,0,LOW,1,4,4,23423.84,,No specific alert reason recorded; review underlying activity if needed
+ACC0109,0,LOW,1,3,3,4160.53,,No specific alert reason recorded; review underlying activity if needed
+ACC0031,0,LOW,1,4,4,19902.63,,No specific alert reason recorded; review underlying activity if needed
+ACC0033,0,LOW,1,4,4,15645.61,,No specific alert reason recorded; review underlying activity if needed
+ACC0200,0,LOW,1,4,4,18626.12,,No specific alert reason recorded; review underlying activity if needed
+ACC0218,0,LOW,1,4,4,15556.12,,No specific alert reason recorded; review underlying activity if needed
+ACC0020,0,LOW,1,2,2,11966.8,,No specific alert reason recorded; review underlying activity if needed
+ACC0004,0,LOW,1,4,4,19841.36,,No specific alert reason recorded; review underlying activity if needed
+ACC0163,0,LOW,1,3,3,22639.86,,No specific alert reason recorded; review underlying activity if needed
+ACC0146,0,LOW,1,2,2,11984.11,,No specific alert reason recorded; review underlying activity if needed
+ACC0089,0,LOW,1,2,2,10816.46,,No specific alert reason recorded; review underlying activity if needed
+ACC0088,0,LOW,1,4,4,8802.17,,No specific alert reason recorded; review underlying activity if needed
+ACC0115,0,LOW,1,4,4,15278.74,,No specific alert reason recorded; review underlying activity if needed
+ACC0178,0,LOW,1,3,3,11283.88,,No specific alert reason recorded; review underlying activity if needed
+ACC1070,0,LOW,32,3,1,43892.91,,No specific alert reason recorded; review underlying activity if needed
+ACC1071,0,LOW,33,4,1,69830.34,,No specific alert reason recorded; review underlying activity if needed
+ACC0143,0,LOW,1,2,2,3376.63,,No specific alert reason recorded; review underlying activity if needed
+ACC0157,0,LOW,1,3,3,18729.68,,No specific alert reason recorded; review underlying activity if needed
+ACC0216,0,LOW,1,3,3,16511.8,,No specific alert reason recorded; review underlying activity if needed
+ACC0082,0,LOW,1,2,2,14176.78,,No specific alert reason recorded; review underlying activity if needed
+ACC0099,0,LOW,1,4,4,26491.81,,No specific alert reason recorded; review underlying activity if needed
+ACC0100,0,LOW,1,2,2,15728.85,,No specific alert reason recorded; review underlying activity if needed
+ACC0123,0,LOW,1,3,3,5886.32,,No specific alert reason recorded; review underlying activity if needed
+ACC0219,0,LOW,1,2,2,11454.47,,No specific alert reason recorded; review underlying activity if needed
+ACC0125,0,LOW,1,4,4,8435.46,,No specific alert reason recorded; review underlying activity if needed
+ACC0152,0,LOW,1,1,1,6990.51,,No specific alert reason recorded; review underlying activity if needed
+ACC0167,0,LOW,1,4,4,5615.48,,No specific alert reason recorded; review underlying activity if needed
+ACC0241,0,LOW,1,4,4,19636.01,,No specific alert reason recorded; review underlying activity if needed
+ACC0010,0,LOW,1,4,4,9385.03,,No specific alert reason recorded; review underlying activity if needed
+ACC0112,0,LOW,1,2,2,10908.43,,No specific alert reason recorded; review underlying activity if needed
+ACC0066,0,LOW,1,3,3,7293.84,,No specific alert reason recorded; review underlying activity if needed
+ACC0108,0,LOW,1,4,4,16943.21,,No specific alert reason recorded; review underlying activity if needed
+ACC0158,0,LOW,1,4,4,21058.02,,No specific alert reason recorded; review underlying activity if needed
+ACC0244,0,LOW,1,3,3,7591.64,,No specific alert reason recorded; review underlying activity if needed
+ACC0030,0,LOW,1,4,4,22628.25,,No specific alert reason recorded; review underlying activity if needed
+ACC0120,0,LOW,1,3,3,19509.45,,No specific alert reason recorded; review underlying activity if needed
+ACC0078,0,LOW,1,3,3,15833.45,,No specific alert reason recorded; review underlying activity if needed
+ACC0204,0,LOW,1,2,2,12008.95,,No specific alert reason recorded; review underlying activity if needed
+ACC0132,0,LOW,1,3,3,12664.38,,No specific alert reason recorded; review underlying activity if needed
+ACC1072,0,LOW,34,3,1,34017.11,,No specific alert reason recorded; review underlying activity if needed
+ACC1074,0,LOW,36,3,1,29238.62,,No specific alert reason recorded; review underlying activity if needed
+ACC0127,0,LOW,1,1,1,5096.01,,No specific alert reason recorded; review underlying activity if needed
+ACC0046,0,LOW,1,3,3,21188.9,,No specific alert reason recorded; review underlying activity if needed
+ACC0019,0,LOW,1,4,4,20434.85,,No specific alert reason recorded; review underlying activity if needed
+ACC0226,0,LOW,1,4,4,9647.81,,No specific alert reason recorded; review underlying activity if needed
+ACC0171,0,LOW,1,4,3,21618.08,,No specific alert reason recorded; review underlying activity if needed
+ACC0070,0,LOW,1,3,3,17917.04,,No specific alert reason recorded; review underlying activity if needed
+ACC0237,0,LOW,1,4,4,18827.41,,No specific alert reason recorded; review underlying activity if needed
+ACC0090,0,LOW,1,1,1,4009.69,,No specific alert reason recorded; review underlying activity if needed
+ACC0149,0,LOW,1,2,2,10235.68,,No specific alert reason recorded; review underlying activity if needed
+ACC0240,0,LOW,1,1,1,3498.81,,No specific alert reason recorded; review underlying activity if needed
+ACC1075,0,LOW,37,4,1,66644.29,,No specific alert reason recorded; review underlying activity if needed
+ACC1076,0,LOW,38,3,1,60243.55,,No specific alert reason recorded; review underlying activity if needed
+ACC1078,0,LOW,40,3,1,33461.04,,No specific alert reason recorded; review underlying activity if needed
+ACC1079,0,LOW,41,4,1,37933.26,,No specific alert reason recorded; review underlying activity if needed
+ACC0077,0,LOW,1,4,4,11867.4,,No specific alert reason recorded; review underlying activity if needed
+ACC0014,0,LOW,1,3,3,9679.47,,No specific alert reason recorded; review underlying activity if needed
+ACC0122,0,LOW,1,3,3,8344.37,,No specific alert reason recorded; review underlying activity if needed
+ACC0048,0,LOW,1,4,4,3016.82,,No specific alert reason recorded; review underlying activity if needed
+ACC0215,0,LOW,1,4,4,10221.03,,No specific alert reason recorded; review underlying activity if needed
+ACC0069,0,LOW,1,3,3,7277.3,,No specific alert reason recorded; review underlying activity if needed
+ACC0022,0,LOW,1,1,1,1725.52,,No specific alert reason recorded; review underlying activity if needed
+ACC0016,0,LOW,1,1,1,4205.58,,No specific alert reason recorded; review underlying activity if needed
+ACC0129,0,LOW,1,2,2,7977.89,,No specific alert reason recorded; review underlying activity if needed
+ACC0134,0,LOW,1,4,4,8679.2,,No specific alert reason recorded; review underlying activity if needed
+ACC0103,0,LOW,1,2,2,9558.89,,No specific alert reason recorded; review underlying activity if needed
+ACC0165,0,LOW,1,4,4,20586.87,,No specific alert reason recorded; review underlying activity if needed
+ACC0141,0,LOW,1,3,3,2285.24,,No specific alert reason recorded; review underlying activity if needed
+ACC0003,0,LOW,1,2,2,4954.92,,No specific alert reason recorded; review underlying activity if needed
+ACC0056,0,LOW,1,1,1,4124.53,,No specific alert reason recorded; review underlying activity if needed
+ACC0131,0,LOW,1,3,3,10647.33,,No specific alert reason recorded; review underlying activity if needed
+ACC0194,0,LOW,1,3,3,7980.8,,No specific alert reason recorded; review underlying activity if needed
+ACC0188,0,LOW,1,3,3,6210.14,,No specific alert reason recorded; review underlying activity if needed
+ACC0036,0,LOW,1,1,1,3016.6,,No specific alert reason recorded; review underlying activity if needed
+ACC0184,0,LOW,1,1,1,578.98,,No specific alert reason recorded; review underlying activity if needed
+ACC0001,0,LOW,1,2,2,11904.67,,No specific alert reason recorded; review underlying activity if needed
+ACC0074,0,LOW,1,2,2,6624.89,,No specific alert reason recorded; review underlying activity if needed
+ACC0015,0,LOW,1,3,3,18870.64,,No specific alert reason recorded; review underlying activity if needed
+ACC0207,0,LOW,1,2,2,8921.42,,No specific alert reason recorded; review underlying activity if needed
+ACC0055,0,LOW,1,2,2,12159.15,,No specific alert reason recorded; review underlying activity if needed
+ACC0068,0,LOW,1,3,3,8984.72,,No specific alert reason recorded; review underlying activity if needed
+ACC0230,0,LOW,1,2,2,9540.95,,No specific alert reason recorded; review underlying activity if needed
+ACC0160,0,LOW,1,1,1,1459.99,,No specific alert reason recorded; review underlying activity if needed
+ACC0203,0,LOW,1,3,3,13608.92,,No specific alert reason recorded; review underlying activity if needed
+ACC0175,0,LOW,1,3,3,11660.08,,No specific alert reason recorded; review underlying activity if needed
+ACC0197,0,LOW,1,2,2,10973.65,,No specific alert reason recorded; review underlying activity if needed
+ACC0117,0,LOW,1,4,4,12054.82,,No specific alert reason recorded; review underlying activity if needed
+ACC0028,0,LOW,1,4,4,8608.09,,No specific alert reason recorded; review underlying activity if needed
+ACC0096,0,LOW,1,1,1,2974.28,,No specific alert reason recorded; review underlying activity if needed
+ACC0073,0,LOW,1,2,2,5040.34,,No specific alert reason recorded; review underlying activity if needed
+ACC0054,0,LOW,1,2,2,6895.28,,No specific alert reason recorded; review underlying activity if needed
+ACC0075,0,LOW,1,1,1,3432.53,,No specific alert reason recorded; review underlying activity if needed
+ACC0101,0,LOW,1,2,2,4559.13,,No specific alert reason recorded; review underlying activity if needed
+ACC0043,0,LOW,1,2,2,4588.75,,No specific alert reason recorded; review underlying activity if needed
+ACC0059,0,LOW,1,4,4,10264.36,,No specific alert reason recorded; review underlying activity if needed
+ACC0162,0,LOW,1,1,1,205.56,,No specific alert reason recorded; review underlying activity if needed
+ACC0148,0,LOW,1,1,1,597.96,,No specific alert reason recorded; review underlying activity if needed
+ACC0177,0,LOW,1,2,2,1638.36,,No specific alert reason recorded; review underlying activity if needed
+ACC0093,0,LOW,1,1,1,3067.76,,No specific alert reason recorded; review underlying activity if needed

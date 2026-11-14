@@ -1,0 +1,399 @@
+account,risk_score,risk_level,total_transactions,total_sent,total_received,unique_partners,pattern_alerts,different_patterns,cross_border_ratio,reasons
+ACC0225,55,MEDIUM,6,10761.81,2723.22,6,2,2,1.0,2 pattern alerts detected; Multiple different transaction patterns detected; CYCLE pattern detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0213,50,MEDIUM,10,32617.04,16433.85,9,2,2,0.8,2 pattern alerts detected; Multiple different transaction patterns detected; High number of unique transaction partners; High proportion of cross-border transactions; High transaction activity
+ACC0980,45,MEDIUM,5,33232.75,0.0,1,5,1,1.0,5 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC0987,45,MEDIUM,5,55788.73,0.0,1,5,1,0.8,5 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC0986,45,MEDIUM,5,47737.7,0.0,1,5,1,1.0,5 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC1000,45,MEDIUM,10,36767.95,24839.6,2,3,1,0.9,3 pattern alerts detected; RAPID_PASS_THROUGH pattern detected; High proportion of cross-border transactions; High transaction activity
+ACC0988,45,MEDIUM,5,28879.78,0.0,1,5,1,1.0,5 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC0989,45,MEDIUM,5,37908.2,0.0,1,5,1,0.8,5 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC0202,45,MEDIUM,8,12196.36,17257.56,8,2,2,0.88,2 pattern alerts detected; Multiple different transaction patterns detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0981,45,MEDIUM,5,35093.04,0.0,1,5,1,1.0,5 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC0985,45,MEDIUM,5,38500.1,0.0,1,5,1,0.8,5 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC0983,45,MEDIUM,5,55548.01,0.0,1,5,1,0.6,5 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC0982,45,MEDIUM,5,37069.44,0.0,1,5,1,0.8,5 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC0984,45,MEDIUM,5,24481.07,0.0,1,5,1,0.8,5 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC1006,45,MEDIUM,10,47370.84,35820.85,2,3,1,0.9,3 pattern alerts detected; RAPID_PASS_THROUGH pattern detected; High proportion of cross-border transactions; High transaction activity
+ACC1034,40,MEDIUM,5,68990.85,0.0,1,3,1,0.8,3 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC0995,40,MEDIUM,10,40994.38,38500.1,2,2,1,0.9,2 pattern alerts detected; RAPID_PASS_THROUGH pattern detected; High proportion of cross-border transactions; High transaction activity
+ACC0911,40,MEDIUM,30,198866.75,0.0,28,1,1,0.93,1 pattern alerts detected; Very high number of unique transaction partners; High proportion of cross-border transactions; Very high transaction activity
+ACC0901,40,MEDIUM,30,0.0,189492.14,28,1,1,0.9,1 pattern alerts detected; Very high number of unique transaction partners; High proportion of cross-border transactions; Very high transaction activity
+ACC0900,40,MEDIUM,30,0.0,178974.73,29,1,1,0.8,1 pattern alerts detected; Very high number of unique transaction partners; High proportion of cross-border transactions; Very high transaction activity
+ACC0903,40,MEDIUM,30,0.0,166429.78,29,1,1,0.9,1 pattern alerts detected; Very high number of unique transaction partners; High proportion of cross-border transactions; Very high transaction activity
+ACC1030,40,MEDIUM,5,66548.13,0.0,1,3,1,0.6,3 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC0914,40,MEDIUM,30,147742.69,0.0,30,1,1,0.9,1 pattern alerts detected; Very high number of unique transaction partners; High proportion of cross-border transactions; Very high transaction activity
+ACC1001,40,MEDIUM,10,50336.64,36385.27,2,2,1,1.0,2 pattern alerts detected; RAPID_PASS_THROUGH pattern detected; High proportion of cross-border transactions; High transaction activity
+ACC0902,40,MEDIUM,30,0.0,186012.16,30,1,1,0.93,1 pattern alerts detected; Very high number of unique transaction partners; High proportion of cross-border transactions; Very high transaction activity
+ACC1045,40,MEDIUM,8,69696.67,15660.15,2,3,1,0.75,3 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC0912,40,MEDIUM,30,172965.17,0.0,30,1,1,0.9,1 pattern alerts detected; Very high number of unique transaction partners; High proportion of cross-border transactions; Very high transaction activity
+ACC1038,40,MEDIUM,5,67626.69,0.0,1,3,1,0.8,3 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC1043,40,MEDIUM,7,44933.01,35878.66,2,3,1,0.57,3 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC0913,40,MEDIUM,30,201260.57,0.0,29,1,1,0.9,1 pattern alerts detected; Very high number of unique transaction partners; High proportion of cross-border transactions; Very high transaction activity
+ACC1049,40,MEDIUM,8,38154.88,56227.99,2,3,1,0.88,3 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC1047,40,MEDIUM,7,71529.56,45799.08,2,3,1,0.86,3 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC1002,40,MEDIUM,10,31397.33,32615.43,2,2,1,0.9,2 pattern alerts detected; RAPID_PASS_THROUGH pattern detected; High proportion of cross-border transactions; High transaction activity
+ACC0910,40,MEDIUM,30,174101.0,0.0,29,1,1,0.9,1 pattern alerts detected; Very high number of unique transaction partners; High proportion of cross-border transactions; Very high transaction activity
+ACC0904,40,MEDIUM,30,0.0,189083.36,30,1,1,0.77,1 pattern alerts detected; Very high number of unique transaction partners; High proportion of cross-border transactions; Very high transaction activity
+ACC1041,40,MEDIUM,8,66227.59,59276.37,2,3,1,0.75,3 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC0997,40,MEDIUM,10,31381.82,55788.73,2,2,1,0.8,2 pattern alerts detected; RAPID_PASS_THROUGH pattern detected; High proportion of cross-border transactions; High transaction activity
+ACC1040,35,LOW,8,36120.22,66548.13,2,2,1,0.75,2 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC0992,35,LOW,10,32615.43,37069.44,2,1,1,0.8,1 pattern alerts detected; RAPID_PASS_THROUGH pattern detected; High proportion of cross-border transactions; High transaction activity
+ACC1048,35,LOW,8,38044.56,67626.69,2,2,1,0.88,2 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC1007,35,LOW,10,32809.94,31381.82,2,1,1,0.9,1 pattern alerts detected; RAPID_PASS_THROUGH pattern detected; High proportion of cross-border transactions; High transaction activity
+ACC1008,35,LOW,10,33594.12,42738.57,2,1,1,0.6,1 pattern alerts detected; RAPID_PASS_THROUGH pattern detected; High proportion of cross-border transactions; High transaction activity
+ACC0990,35,LOW,10,24839.6,33232.75,2,1,1,1.0,1 pattern alerts detected; RAPID_PASS_THROUGH pattern detected; High proportion of cross-border transactions; High transaction activity
+ACC1005,35,LOW,10,42449.83,40994.38,2,1,1,1.0,1 pattern alerts detected; RAPID_PASS_THROUGH pattern detected; High proportion of cross-border transactions; High transaction activity
+ACC0996,35,LOW,10,35820.85,47737.7,2,1,1,0.9,1 pattern alerts detected; RAPID_PASS_THROUGH pattern detected; High proportion of cross-border transactions; High transaction activity
+ACC1044,35,LOW,8,58543.09,68990.85,2,2,1,0.75,2 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC0994,35,LOW,10,52525.98,24481.07,2,1,1,0.7,1 pattern alerts detected; RAPID_PASS_THROUGH pattern detected; High proportion of cross-border transactions; High transaction activity
+ACC1057,35,LOW,7,47441.0,71529.56,2,2,1,0.86,2 pattern alerts detected; RAPID_PASS_THROUGH pattern detected; High proportion of cross-border transactions
+ACC1004,35,LOW,10,37067.08,52525.98,2,1,1,0.8,1 pattern alerts detected; RAPID_PASS_THROUGH pattern detected; High proportion of cross-border transactions; High transaction activity
+ACC1042,30,LOW,7,27436.84,73406.26,2,1,1,0.86,1 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC1046,30,LOW,7,29763.43,30340.81,2,1,1,1.0,1 pattern alerts detected; LAYERED_NETWORK pattern detected; High proportion of cross-border transactions
+ACC1052,30,LOW,8,49092.15,27436.84,2,1,1,0.75,1 pattern alerts detected; RAPID_PASS_THROUGH pattern detected; High proportion of cross-border transactions
+ACC0958,30,LOW,6,13774.51,21410.47,2,1,1,0.83,1 pattern alerts detected; RAPID_PASS_THROUGH pattern detected; High proportion of cross-border transactions
+ACC1036,30,LOW,4,30340.81,0.0,1,3,1,1.0,3 pattern alerts detected; LAYERED_NETWORK pattern detected
+ACC1051,30,LOW,8,37781.45,66227.59,2,1,1,1.0,1 pattern alerts detected; RAPID_PASS_THROUGH pattern detected; High proportion of cross-border transactions
+ACC1066,30,LOW,8,60243.55,76690.06,2,1,1,1.0,1 pattern alerts detected; RAPID_PASS_THROUGH pattern detected; High proportion of cross-border transactions
+ACC1032,30,LOW,4,73406.26,0.0,1,3,1,1.0,3 pattern alerts detected; LAYERED_NETWORK pattern detected
+ACC1067,30,LOW,8,40892.4,47441.0,2,1,1,0.88,1 pattern alerts detected; RAPID_PASS_THROUGH pattern detected; High proportion of cross-border transactions
+ACC0147,25,LOW,5,1185.85,12730.0,5,1,1,1.0,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC1037,25,LOW,3,45799.08,0.0,1,2,1,1.0,2 pattern alerts detected; LAYERED_NETWORK pattern detected
+ACC0186,25,LOW,6,2799.98,25022.8,6,1,1,0.67,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0170,25,LOW,7,22998.71,3635.99,7,1,1,1.0,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0978,25,LOW,6,17000.49,13774.51,2,1,1,0.83,1 pattern alerts detected; CYCLE pattern detected; High proportion of cross-border transactions
+ACC0040,25,LOW,5,12270.49,2310.21,5,1,1,0.8,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0946,25,LOW,6,19673.15,15031.31,2,1,1,1.0,1 pattern alerts detected; CYCLE pattern detected; High proportion of cross-border transactions
+ACC0172,25,LOW,5,2840.79,11149.45,5,1,1,0.8,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0011,25,LOW,6,5672.08,8252.0,6,1,1,1.0,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0144,25,LOW,6,16154.69,0.0,5,1,1,0.67,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0947,25,LOW,6,7403.88,14292.12,2,1,1,1.0,1 pattern alerts detected; CYCLE pattern detected; High proportion of cross-border transactions
+ACC0211,25,LOW,5,2581.2,12374.1,5,1,1,0.8,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0026,25,LOW,6,13176.61,20751.05,6,1,1,1.0,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0940,25,LOW,6,15003.48,22449.68,2,1,1,1.0,1 pattern alerts detected; CYCLE pattern detected; High proportion of cross-border transactions
+ACC0174,25,LOW,8,1157.35,33055.25,7,1,1,0.88,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0209,25,LOW,6,8724.04,11152.13,6,1,1,0.83,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0098,25,LOW,7,17658.04,17780.15,7,1,1,0.86,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0214,25,LOW,9,16038.54,8384.49,9,1,1,1.0,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0116,25,LOW,5,0.0,20109.74,5,1,1,1.0,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0972,25,LOW,6,23118.23,14676.89,2,1,1,0.67,1 pattern alerts detected; CYCLE pattern detected; High proportion of cross-border transactions
+ACC0234,25,LOW,5,2044.09,17142.29,5,1,1,1.0,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0191,25,LOW,5,4604.97,8697.62,5,1,1,0.6,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0935,25,LOW,6,12631.75,13557.88,2,1,1,0.83,1 pattern alerts detected; CYCLE pattern detected; High proportion of cross-border transactions
+ACC0236,25,LOW,5,1967.72,6051.07,5,1,1,0.8,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0121,25,LOW,7,4708.9,17179.09,7,1,1,1.0,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC1033,25,LOW,3,35878.66,0.0,1,2,1,0.33,2 pattern alerts detected; LAYERED_NETWORK pattern detected
+ACC0183,25,LOW,5,15304.09,1459.99,5,1,1,0.6,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0067,25,LOW,6,10185.04,2044.09,5,1,1,0.83,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0102,25,LOW,5,3455.81,16560.39,5,1,1,1.0,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0035,25,LOW,7,27737.28,1280.04,7,1,1,0.71,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0142,25,LOW,7,17887.97,14587.97,7,1,1,0.86,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0964,25,LOW,6,17207.2,11009.45,2,1,1,0.83,1 pattern alerts detected; CYCLE pattern detected; High proportion of cross-border transactions
+ACC0039,25,LOW,6,7604.41,3781.02,6,1,1,0.83,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0961,25,LOW,6,11158.29,8769.31,2,1,1,1.0,1 pattern alerts detected; CYCLE pattern detected; High proportion of cross-border transactions
+ACC0034,25,LOW,5,0.0,17285.6,5,1,1,0.6,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0042,25,LOW,5,13437.23,4189.89,5,1,1,1.0,1 pattern alerts detected; High number of unique transaction partners; High proportion of cross-border transactions
+ACC0949,25,LOW,6,14359.99,18556.04,2,1,1,1.0,1 pattern alerts detected; CYCLE pattern detected; High proportion of cross-border transactions
+ACC0943,25,LOW,6,17733.3,19325.55,2,1,1,1.0,1 pattern alerts detected; CYCLE pattern detected; High proportion of cross-border transactions
+ACC0176,20,LOW,5,12022.99,8656.84,5,0,0,1.0,High number of unique transaction partners; High proportion of cross-border transactions
+ACC0126,20,LOW,5,13572.4,4584.24,5,0,0,1.0,High number of unique transaction partners; High proportion of cross-border transactions
+ACC0192,20,LOW,5,7122.21,3500.41,5,0,0,1.0,High number of unique transaction partners; High proportion of cross-border transactions
+ACC0119,20,LOW,5,5461.47,23077.93,5,0,0,1.0,High number of unique transaction partners; High proportion of cross-border transactions
+ACC0201,20,LOW,5,5051.35,17099.92,5,0,0,1.0,High number of unique transaction partners; High proportion of cross-border transactions
+ACC0238,20,LOW,5,15197.41,6817.56,5,0,0,0.8,High number of unique transaction partners; High proportion of cross-border transactions
+ACC0024,20,LOW,6,11916.68,38740.78,5,0,0,1.0,High number of unique transaction partners; High proportion of cross-border transactions
+ACC0166,20,LOW,5,3384.69,12410.16,5,0,0,1.0,High number of unique transaction partners; High proportion of cross-border transactions
+ACC0948,20,LOW,4,8357.09,7889.52,2,1,1,0.25,1 pattern alerts detected; RAPID_PASS_THROUGH pattern detected
+ACC0085,20,LOW,5,10040.55,5585.83,5,0,0,1.0,High number of unique transaction partners; High proportion of cross-border transactions
+ACC0156,20,LOW,5,12140.09,25722.35,5,0,0,1.0,High number of unique transaction partners; High proportion of cross-border transactions
+ACC0071,20,LOW,7,12380.03,25693.2,6,0,0,0.71,High number of unique transaction partners; High proportion of cross-border transactions
+ACC0153,20,LOW,5,17107.52,10409.86,5,0,0,1.0,High number of unique transaction partners; High proportion of cross-border transactions
+ACC0081,20,LOW,5,13189.33,7260.49,5,0,0,1.0,High number of unique transaction partners; High proportion of cross-border transactions
+ACC0094,20,LOW,5,6865.05,8346.24,5,0,0,0.8,High number of unique transaction partners; High proportion of cross-border transactions
+ACC0229,20,LOW,5,15264.67,7251.67,5,0,0,0.8,High number of unique transaction partners; High proportion of cross-border transactions
+ACC0107,20,LOW,5,6397.17,3883.46,5,0,0,1.0,High number of unique transaction partners; High proportion of cross-border transactions
+ACC1035,20,LOW,3,15660.15,0.0,1,1,1,1.0,1 pattern alerts detected; LAYERED_NETWORK pattern detected
+ACC0072,20,LOW,6,18249.0,11298.21,6,0,0,1.0,High number of unique transaction partners; High proportion of cross-border transactions
+ACC0180,20,LOW,5,5009.34,4276.41,5,0,0,1.0,High number of unique transaction partners; High proportion of cross-border transactions
+ACC0113,20,LOW,5,15663.84,6200.97,5,0,0,1.0,High number of unique transaction partners; High proportion of cross-border transactions
+ACC0206,20,LOW,5,12020.35,3410.8,5,0,0,1.0,High number of unique transaction partners; High proportion of cross-border transactions
+ACC1039,20,LOW,3,56227.99,0.0,1,1,1,0.67,1 pattern alerts detected; LAYERED_NETWORK pattern detected
+ACC1031,20,LOW,3,59276.37,0.0,1,1,1,0.33,1 pattern alerts detected; LAYERED_NETWORK pattern detected
+ACC0950,15,LOW,4,15553.6,10005.36,2,1,1,1.0,1 pattern alerts detected; CYCLE pattern detected
+ACC1003,15,LOW,10,35436.19,38954.98,2,0,0,0.9,High proportion of cross-border transactions; High transaction activity
+ACC0993,15,LOW,10,38954.98,55548.01,2,0,0,0.7,High proportion of cross-border transactions; High transaction activity
+ACC0939,15,LOW,4,11595.08,5281.91,2,1,1,1.0,1 pattern alerts detected; CYCLE pattern detected
+ACC0957,15,LOW,4,11521.5,12137.28,2,1,1,1.0,1 pattern alerts detected; CYCLE pattern detected
+ACC0991,15,LOW,10,36385.27,35093.04,2,0,0,1.0,High proportion of cross-border transactions; High transaction activity
+ACC0925,15,LOW,4,11196.09,15654.67,2,1,1,0.75,1 pattern alerts detected; CYCLE pattern detected
+ACC0976,15,LOW,4,10689.59,10721.38,2,1,1,0.75,1 pattern alerts detected; CYCLE pattern detected
+ACC0998,15,LOW,10,42738.57,28879.78,2,0,0,0.8,High proportion of cross-border transactions; High transaction activity
+ACC0931,15,LOW,4,6643.18,8262.76,2,1,1,1.0,1 pattern alerts detected; CYCLE pattern detected
+ACC0973,15,LOW,4,2126.46,14666.91,2,1,1,1.0,1 pattern alerts detected; CYCLE pattern detected
+ACC1009,15,LOW,10,30353.6,35745.83,2,0,0,0.9,High proportion of cross-border transactions; High transaction activity
+ACC0934,15,LOW,4,7747.06,12786.45,2,1,1,1.0,1 pattern alerts detected; CYCLE pattern detected
+ACC0999,15,LOW,10,35745.83,37908.2,2,0,0,0.9,High proportion of cross-border transactions; High transaction activity
+ACC0922,15,LOW,4,9078.98,6250.43,2,1,1,0.75,1 pattern alerts detected; CYCLE pattern detected
+ACC0968,15,LOW,4,17441.3,8357.09,2,1,1,0.5,1 pattern alerts detected; CYCLE pattern detected
+ACC0061,15,LOW,6,7577.18,2170.87,6,1,1,0.33,1 pattern alerts detected; High number of unique transaction partners
+ACC1068,10,LOW,7,33461.04,52926.66,2,0,0,0.86,High proportion of cross-border transactions
+ACC1065,10,LOW,7,66644.29,39717.79,2,0,0,1.0,High proportion of cross-border transactions
+ACC1016,10,LOW,5,0.0,47370.84,1,0,0,1.0,High proportion of cross-border transactions
+ACC0920,10,LOW,6,22449.68,20184.19,2,0,0,0.83,High proportion of cross-border transactions
+ACC0924,10,LOW,6,11110.86,17207.2,2,0,0,0.83,High proportion of cross-border transactions
+ACC1077,10,LOW,5,0.0,40892.4,1,0,0,0.8,High proportion of cross-border transactions
+ACC0168,10,LOW,5,3060.39,5136.41,4,0,0,1.0,High proportion of cross-border transactions
+ACC0938,10,LOW,6,21410.47,17000.49,2,0,0,1.0,High proportion of cross-border transactions
+ACC1073,10,LOW,5,0.0,66967.49,1,0,0,0.6,High proportion of cross-border transactions
+ACC0944,10,LOW,6,11009.45,11110.86,2,0,0,1.0,High proportion of cross-border transactions
+ACC1069,10,LOW,7,37933.26,32542.64,2,0,0,0.71,High proportion of cross-border transactions
+ACC0966,10,LOW,6,23376.1,19673.15,2,0,0,1.0,High proportion of cross-border transactions
+ACC1055,10,LOW,8,39717.79,69696.67,2,0,0,0.75,High proportion of cross-border transactions
+ACC0969,10,LOW,6,11274.29,14359.99,2,0,0,1.0,High proportion of cross-border transactions
+ACC0927,10,LOW,6,14292.12,19330.4,2,0,0,1.0,High proportion of cross-border transactions
+ACC0929,10,LOW,6,18556.04,11274.29,2,0,0,1.0,High proportion of cross-border transactions
+ACC1062,10,LOW,8,34017.11,49092.15,2,0,0,0.88,High proportion of cross-border transactions
+ACC0967,10,LOW,6,19330.4,7403.88,2,0,0,1.0,High proportion of cross-border transactions
+ACC0955,10,LOW,6,13358.2,12631.75,2,0,0,0.67,High proportion of cross-border transactions
+ACC1050,10,LOW,7,70219.28,36120.22,2,0,0,0.86,High proportion of cross-border transactions
+ACC1063,10,LOW,8,66967.49,42619.31,2,0,0,0.75,High proportion of cross-border transactions
+ACC1015,10,LOW,5,0.0,42449.83,1,0,0,1.0,High proportion of cross-border transactions
+ACC1053,10,LOW,7,42619.31,44933.01,2,0,0,0.86,High proportion of cross-border transactions
+ACC0975,10,LOW,6,13557.88,13358.2,2,0,0,0.83,High proportion of cross-border transactions
+ACC1060,10,LOW,7,43892.91,70219.28,2,0,0,0.71,High proportion of cross-border transactions
+ACC1058,10,LOW,7,52926.66,38044.56,2,0,0,1.0,High proportion of cross-border transactions
+ACC1056,10,LOW,8,76690.06,29763.43,2,0,0,1.0,High proportion of cross-border transactions
+ACC0921,10,LOW,6,14537.43,11158.29,2,0,0,1.0,High proportion of cross-border transactions
+ACC1017,10,LOW,5,0.0,32809.94,1,0,0,1.0,High proportion of cross-border transactions
+ACC1019,10,LOW,5,0.0,30353.6,1,0,0,0.8,High proportion of cross-border transactions
+ACC0084,10,LOW,5,11129.45,6164.37,4,0,0,1.0,High proportion of cross-border transactions
+ACC0222,10,LOW,5,1661.52,21595.72,4,0,0,1.0,High proportion of cross-border transactions
+ACC0932,10,LOW,6,17349.1,23118.23,2,0,0,0.83,High proportion of cross-border transactions
+ACC0963,10,LOW,6,13830.19,17733.3,2,0,0,1.0,High proportion of cross-border transactions
+ACC0941,10,LOW,6,8769.31,14537.43,2,0,0,1.0,High proportion of cross-border transactions
+ACC1054,10,LOW,7,71672.75,58543.09,2,0,0,0.71,High proportion of cross-border transactions
+ACC0960,10,LOW,6,20184.19,15003.48,2,0,0,0.83,High proportion of cross-border transactions
+ACC1061,10,LOW,7,69830.34,37781.45,2,0,0,0.86,High proportion of cross-border transactions
+ACC1013,10,LOW,5,0.0,35436.19,1,0,0,1.0,High proportion of cross-border transactions
+ACC1014,10,LOW,5,0.0,37067.08,1,0,0,1.0,High proportion of cross-border transactions
+ACC1011,10,LOW,5,0.0,50336.64,1,0,0,1.0,High proportion of cross-border transactions
+ACC1059,10,LOW,8,32542.64,38154.88,2,0,0,0.88,High proportion of cross-border transactions
+ACC1010,10,LOW,5,0.0,36767.95,1,0,0,0.8,High proportion of cross-border transactions
+ACC0923,10,LOW,6,19325.55,13830.19,2,0,0,1.0,High proportion of cross-border transactions
+ACC0926,10,LOW,6,15031.31,23376.1,2,0,0,1.0,High proportion of cross-border transactions
+ACC1018,10,LOW,5,0.0,33594.12,1,0,0,0.6,High proportion of cross-border transactions
+ACC1012,10,LOW,5,0.0,31397.33,1,0,0,1.0,High proportion of cross-border transactions
+ACC1064,10,LOW,7,29238.62,71672.75,2,0,0,0.86,High proportion of cross-border transactions
+ACC0952,10,LOW,6,14676.89,17349.1,2,0,0,0.83,High proportion of cross-border transactions
+ACC0106,5,LOW,4,0.0,13945.24,4,1,1,1.0,1 pattern alerts detected
+ACC0124,5,LOW,4,8388.4,0.0,4,1,1,1.0,1 pattern alerts detected
+ACC0045,5,LOW,4,0.0,9987.35,4,1,1,0.75,1 pattern alerts detected
+ACC0130,5,LOW,4,18457.13,0.0,4,1,1,1.0,1 pattern alerts detected
+ACC0173,5,LOW,4,16289.98,0.0,4,1,1,0.75,1 pattern alerts detected
+ACC0133,5,LOW,4,20258.48,0.0,4,1,1,0.5,1 pattern alerts detected
+ACC0125,0,LOW,4,6928.29,1507.17,4,0,0,1.0,No major risk indicators detected
+ACC0228,0,LOW,3,2816.04,4417.8,3,0,0,1.0,No major risk indicators detected
+ACC0103,0,LOW,2,4275.01,5283.88,2,0,0,1.0,No major risk indicators detected
+ACC0227,0,LOW,3,0.0,10019.48,3,0,0,1.0,No major risk indicators detected
+ACC0108,0,LOW,4,12582.04,4361.17,4,0,0,0.5,No major risk indicators detected
+ACC1078,0,LOW,3,0.0,33461.04,1,0,0,0.67,No major risk indicators detected
+ACC0137,0,LOW,2,3655.99,3119.44,2,0,0,1.0,No major risk indicators detected
+ACC0058,0,LOW,3,4815.66,14801.98,3,0,0,1.0,No major risk indicators detected
+ACC0226,0,LOW,4,6532.49,3115.32,4,0,0,0.75,No major risk indicators detected
+ACC0240,0,LOW,1,3498.81,0.0,1,0,0,1.0,No major risk indicators detected
+ACC0022,0,LOW,1,1725.52,0.0,1,0,0,1.0,No major risk indicators detected
+ACC0140,0,LOW,2,4993.65,2689.81,2,0,0,1.0,No major risk indicators detected
+ACC0132,0,LOW,3,12458.82,205.56,3,0,0,1.0,No major risk indicators detected
+ACC0043,0,LOW,2,3431.1,1157.65,2,0,0,0.5,No major risk indicators detected
+ACC0065,0,LOW,2,2892.48,1098.86,2,0,0,1.0,No major risk indicators detected
+ACC0138,0,LOW,1,5659.06,0.0,1,0,0,1.0,No major risk indicators detected
+ACC0012,0,LOW,4,8104.53,8684.2,4,0,0,0.75,No major risk indicators detected
+ACC0088,0,LOW,4,7879.65,922.52,4,0,0,0.75,No major risk indicators detected
+ACC0965,0,LOW,4,15654.67,5505.27,2,0,0,1.0,No major risk indicators detected
+ACC0001,0,LOW,2,11831.05,73.62,2,0,0,0.5,No major risk indicators detected
+ACC0049,0,LOW,1,0.0,832.77,1,0,0,1.0,No major risk indicators detected
+ACC0936,0,LOW,4,11123.77,10689.59,2,0,0,0.75,No major risk indicators detected
+ACC0054,0,LOW,2,3151.28,3744.0,2,0,0,1.0,No major risk indicators detected
+ACC0013,0,LOW,4,13875.7,9548.14,4,0,0,0.75,No major risk indicators detected
+ACC0041,0,LOW,2,0.0,4162.38,2,0,0,1.0,No major risk indicators detected
+ACC0208,0,LOW,2,0.0,12836.29,2,0,0,0.5,No major risk indicators detected
+ACC0105,0,LOW,3,7240.32,5680.79,3,0,0,1.0,No major risk indicators detected
+ACC0197,0,LOW,2,7871.06,3102.59,2,0,0,0.5,No major risk indicators detected
+ACC0196,0,LOW,4,2711.96,14021.22,4,0,0,0.75,No major risk indicators detected
+ACC0190,0,LOW,2,0.0,2624.62,2,0,0,1.0,No major risk indicators detected
+ACC0150,0,LOW,2,46.66,1275.63,2,0,0,0.5,No major risk indicators detected
+ACC0163,0,LOW,3,12776.04,9863.82,3,0,0,1.0,No major risk indicators detected
+ACC0003,0,LOW,2,4954.92,0.0,2,0,0,1.0,No major risk indicators detected
+ACC0188,0,LOW,3,3787.46,2422.68,3,0,0,1.0,No major risk indicators detected
+ACC0221,0,LOW,2,0.0,11712.55,2,0,0,1.0,No major risk indicators detected
+ACC1079,0,LOW,4,0.0,37933.26,1,0,0,0.75,No major risk indicators detected
+ACC0193,0,LOW,3,2442.73,2710.45,3,0,0,1.0,No major risk indicators detected
+ACC0050,0,LOW,2,2988.42,3105.25,2,0,0,1.0,No major risk indicators detected
+ACC0933,0,LOW,4,12420.35,2126.46,2,0,0,1.0,No major risk indicators detected
+ACC0177,0,LOW,2,1586.35,52.01,2,0,0,1.0,No major risk indicators detected
+ACC0082,0,LOW,2,10769.81,3406.97,2,0,0,0.5,No major risk indicators detected
+ACC0250,0,LOW,3,1127.05,12282.4,3,0,0,1.0,No major risk indicators detected
+ACC0099,0,LOW,4,8480.42,18011.39,4,0,0,1.0,No major risk indicators detected
+ACC0162,0,LOW,1,205.56,0.0,1,0,0,1.0,No major risk indicators detected
+ACC0135,0,LOW,3,4785.37,5402.8,3,0,0,1.0,No major risk indicators detected
+ACC0097,0,LOW,4,4537.14,9094.35,4,0,0,1.0,No major risk indicators detected
+ACC0066,0,LOW,3,1010.45,6283.39,3,0,0,0.67,No major risk indicators detected
+ACC0143,0,LOW,2,3376.63,0.0,2,0,0,1.0,No major risk indicators detected
+ACC0029,0,LOW,2,3483.89,3757.33,2,0,0,1.0,No major risk indicators detected
+ACC0218,0,LOW,4,12606.64,2949.48,4,0,0,1.0,No major risk indicators detected
+ACC1074,0,LOW,3,0.0,29238.62,1,0,0,1.0,No major risk indicators detected
+ACC0122,0,LOW,3,3739.4,4604.97,3,0,0,0.67,No major risk indicators detected
+ACC0056,0,LOW,1,4124.53,0.0,1,0,0,1.0,No major risk indicators detected
+ACC0203,0,LOW,3,8325.53,5283.39,3,0,0,1.0,No major risk indicators detected
+ACC0141,0,LOW,3,1899.4,385.84,3,0,0,1.0,No major risk indicators detected
+ACC0117,0,LOW,4,5803.39,6251.43,4,0,0,1.0,No major risk indicators detected
+ACC0046,0,LOW,3,21188.9,0.0,3,0,0,0.67,No major risk indicators detected
+ACC0095,0,LOW,2,3049.05,8210.59,2,0,0,1.0,No major risk indicators detected
+ACC0044,0,LOW,1,0.0,2513.3,1,0,0,1.0,No major risk indicators detected
+ACC0060,0,LOW,2,1329.14,3813.21,2,0,0,1.0,No major risk indicators detected
+ACC0136,0,LOW,2,2071.41,6364.45,2,0,0,0.5,No major risk indicators detected
+ACC0090,0,LOW,1,4009.69,0.0,1,0,0,1.0,No major risk indicators detected
+ACC0018,0,LOW,1,0.0,10042.91,1,0,0,1.0,No major risk indicators detected
+ACC0031,0,LOW,4,12984.79,6917.84,4,0,0,0.5,No major risk indicators detected
+ACC0069,0,LOW,3,2089.7,5187.6,3,0,0,0.67,No major risk indicators detected
+ACC0087,0,LOW,4,8933.94,8812.84,4,0,0,0.75,No major risk indicators detected
+ACC0096,0,LOW,1,2974.28,0.0,1,0,0,1.0,No major risk indicators detected
+ACC1071,0,LOW,4,0.0,69830.34,1,0,0,0.75,No major risk indicators detected
+ACC0027,0,LOW,3,10536.28,1082.5,3,0,0,0.67,No major risk indicators detected
+ACC0015,0,LOW,3,11548.96,7321.68,3,0,0,1.0,No major risk indicators detected
+ACC0185,0,LOW,3,0.0,10030.78,3,0,0,1.0,No major risk indicators detected
+ACC0245,0,LOW,2,4366.99,4141.6,2,0,0,1.0,No major risk indicators detected
+ACC0954,0,LOW,4,10218.92,7747.06,2,0,0,0.75,No major risk indicators detected
+ACC0243,0,LOW,3,845.3,9865.35,3,0,0,1.0,No major risk indicators detected
+ACC0017,0,LOW,3,238.13,3017.2,3,0,0,1.0,No major risk indicators detected
+ACC0146,0,LOW,2,7518.81,4465.3,2,0,0,1.0,No major risk indicators detected
+ACC0032,0,LOW,3,3593.54,2740.94,3,0,0,1.0,No major risk indicators detected
+ACC0233,0,LOW,3,3362.62,6058.03,3,0,0,0.67,No major risk indicators detected
+ACC0169,0,LOW,3,11422.84,4383.71,3,0,0,0.67,No major risk indicators detected
+ACC0959,0,LOW,4,11371.25,11595.08,2,0,0,1.0,No major risk indicators detected
+ACC0059,0,LOW,4,5946.93,4317.43,4,0,0,1.0,No major risk indicators detected
+ACC1072,0,LOW,3,0.0,34017.11,1,0,0,1.0,No major risk indicators detected
+ACC0182,0,LOW,1,0.0,7861.63,1,0,0,1.0,No major risk indicators detected
+ACC0165,0,LOW,4,6358.17,14228.7,4,0,0,0.75,No major risk indicators detected
+ACC0078,0,LOW,3,4462.22,11371.23,3,0,0,1.0,No major risk indicators detected
+ACC1075,0,LOW,4,0.0,66644.29,1,0,0,1.0,No major risk indicators detected
+ACC0057,0,LOW,4,5665.9,11589.67,4,0,0,0.75,No major risk indicators detected
+ACC0231,0,LOW,4,9153.16,1962.61,4,0,0,0.75,No major risk indicators detected
+ACC0160,0,LOW,1,1459.99,0.0,1,0,0,1.0,No major risk indicators detected
+ACC0008,0,LOW,1,0.0,1938.96,1,0,0,1.0,No major risk indicators detected
+ACC0204,0,LOW,2,10863.58,1145.37,2,0,0,1.0,No major risk indicators detected
+ACC0189,0,LOW,4,4101.37,5896.07,4,0,0,0.5,No major risk indicators detected
+ACC0131,0,LOW,3,0.0,10647.33,3,0,0,1.0,No major risk indicators detected
+ACC0212,0,LOW,3,3031.5,2416.55,3,0,0,1.0,No major risk indicators detected
+ACC0223,0,LOW,2,0.0,14413.07,2,0,0,1.0,No major risk indicators detected
+ACC0200,0,LOW,4,12364.99,6261.13,4,0,0,0.75,No major risk indicators detected
+ACC0942,0,LOW,4,12435.21,9078.98,2,0,0,1.0,No major risk indicators detected
+ACC0005,0,LOW,2,30.58,1953.61,2,0,0,1.0,No major risk indicators detected
+ACC0007,0,LOW,1,2589.17,0.0,1,0,0,1.0,No major risk indicators detected
+ACC0179,0,LOW,2,0.0,6021.28,2,0,0,1.0,No major risk indicators detected
+ACC0152,0,LOW,1,6990.51,0.0,1,0,0,1.0,No major risk indicators detected
+ACC0224,0,LOW,1,0.0,10217.95,1,0,0,1.0,No major risk indicators detected
+ACC0187,0,LOW,4,11249.21,2089.7,4,0,0,0.5,No major risk indicators detected
+ACC0016,0,LOW,1,0.0,4205.58,1,0,0,1.0,No major risk indicators detected
+ACC0971,0,LOW,4,8262.76,10393.47,2,0,0,1.0,No major risk indicators detected
+ACC0928,0,LOW,4,7889.52,17441.3,2,0,0,0.75,No major risk indicators detected
+ACC0149,0,LOW,2,7336.97,2898.71,2,0,0,1.0,No major risk indicators detected
+ACC0028,0,LOW,4,3058.15,5549.94,4,0,0,1.0,No major risk indicators detected
+ACC0220,0,LOW,2,3240.43,2711.96,2,0,0,1.0,No major risk indicators detected
+ACC0247,0,LOW,4,2967.32,3868.63,4,0,0,1.0,No major risk indicators detected
+ACC0158,0,LOW,4,10425.58,10632.44,4,0,0,1.0,No major risk indicators detected
+ACC0194,0,LOW,3,7980.8,0.0,3,0,0,1.0,No major risk indicators detected
+ACC0014,0,LOW,3,3998.36,5681.11,3,0,0,1.0,No major risk indicators detected
+ACC0114,0,LOW,3,0.0,12857.82,3,0,0,0.67,No major risk indicators detected
+ACC0052,0,LOW,4,138.42,9930.16,4,0,0,1.0,No major risk indicators detected
+ACC0075,0,LOW,1,3432.53,0.0,1,0,0,1.0,No major risk indicators detected
+ACC0161,0,LOW,2,0.0,7200.86,2,0,0,1.0,No major risk indicators detected
+ACC1070,0,LOW,3,0.0,43892.91,1,0,0,0.67,No major risk indicators detected
+ACC0239,0,LOW,1,0.0,8740.94,1,0,0,1.0,No major risk indicators detected
+ACC0002,0,LOW,3,5028.31,0.0,3,0,0,1.0,No major risk indicators detected
+ACC0951,0,LOW,4,10393.47,6643.18,2,0,0,1.0,No major risk indicators detected
+ACC0080,0,LOW,3,4738.31,2573.02,3,0,0,1.0,No major risk indicators detected
+ACC0155,0,LOW,3,0.0,12050.0,3,0,0,1.0,No major risk indicators detected
+ACC0038,0,LOW,2,0.0,4276.98,2,0,0,1.0,No major risk indicators detected
+ACC0216,0,LOW,3,16511.8,0.0,3,0,0,1.0,No major risk indicators detected
+ACC0074,0,LOW,2,6624.89,0.0,2,0,0,0.5,No major risk indicators detected
+ACC0089,0,LOW,2,10816.46,0.0,2,0,0,1.0,No major risk indicators detected
+ACC0154,0,LOW,4,10926.14,2557.63,4,0,0,1.0,No major risk indicators detected
+ACC0009,0,LOW,1,842.67,0.0,1,0,0,1.0,No major risk indicators detected
+ACC0979,0,LOW,4,5281.91,11371.25,2,0,0,1.0,No major risk indicators detected
+ACC0064,0,LOW,2,10556.59,4183.31,2,0,0,1.0,No major risk indicators detected
+ACC0184,0,LOW,1,578.98,0.0,1,0,0,1.0,No major risk indicators detected
+ACC0178,0,LOW,3,11283.88,0.0,3,0,0,1.0,No major risk indicators detected
+ACC0048,0,LOW,4,1109.88,1906.94,4,0,0,1.0,No major risk indicators detected
+ACC0230,0,LOW,2,9540.95,0.0,2,0,0,0.5,No major risk indicators detected
+ACC0079,0,LOW,4,3744.0,12371.71,4,0,0,1.0,No major risk indicators detected
+ACC0157,0,LOW,3,18729.68,0.0,3,0,0,1.0,No major risk indicators detected
+ACC0030,0,LOW,4,9954.33,12673.92,4,0,0,1.0,No major risk indicators detected
+ACC0063,0,LOW,4,21338.38,6833.7,4,0,0,0.75,No major risk indicators detected
+ACC0167,0,LOW,4,2564.74,3050.74,4,0,0,1.0,No major risk indicators detected
+ACC0037,0,LOW,2,0.0,12996.27,2,0,0,1.0,No major risk indicators detected
+ACC0148,0,LOW,1,597.96,0.0,1,0,0,1.0,No major risk indicators detected
+ACC0207,0,LOW,2,8921.42,0.0,2,0,0,1.0,No major risk indicators detected
+ACC0159,0,LOW,2,2466.78,1286.84,2,0,0,1.0,No major risk indicators detected
+ACC0962,0,LOW,4,6250.43,12435.21,2,0,0,0.75,No major risk indicators detected
+ACC0010,0,LOW,4,7579.93,1805.1,4,0,0,0.75,No major risk indicators detected
+ACC0198,0,LOW,2,5377.46,0.0,2,0,0,0.5,No major risk indicators detected
+ACC0164,0,LOW,3,13547.99,11563.33,3,0,0,0.67,No major risk indicators detected
+ACC0977,0,LOW,4,13012.53,11521.5,2,0,0,0.75,No major risk indicators detected
+ACC0219,0,LOW,2,10753.88,700.59,2,0,0,1.0,No major risk indicators detected
+ACC0199,0,LOW,3,7261.8,6509.58,3,0,0,1.0,No major risk indicators detected
+ACC0115,0,LOW,4,15046.1,232.64,4,0,0,1.0,No major risk indicators detected
+ACC0100,0,LOW,2,10905.64,4823.21,2,0,0,1.0,No major risk indicators detected
+ACC0091,0,LOW,4,11754.8,8025.78,4,0,0,0.0,No major risk indicators detected
+ACC0006,0,LOW,2,225.29,4324.5,2,0,0,1.0,No major risk indicators detected
+ACC0033,0,LOW,4,9369.26,6276.35,4,0,0,1.0,No major risk indicators detected
+ACC0123,0,LOW,3,567.8,5318.52,3,0,0,1.0,No major risk indicators detected
+ACC0053,0,LOW,1,2710.45,0.0,1,0,0,1.0,No major risk indicators detected
+ACC0025,0,LOW,4,4628.26,4183.92,4,0,0,1.0,No major risk indicators detected
+ACC0127,0,LOW,1,5096.01,0.0,1,0,0,0.0,No major risk indicators detected
+ACC0237,0,LOW,4,17919.02,908.39,4,0,0,0.5,No major risk indicators detected
+ACC0232,0,LOW,3,15030.32,0.0,3,0,0,0.67,No major risk indicators detected
+ACC0068,0,LOW,3,8984.72,0.0,3,0,0,1.0,No major risk indicators detected
+ACC0175,0,LOW,3,10399.78,1260.3,3,0,0,1.0,No major risk indicators detected
+ACC0051,0,LOW,3,6909.36,11992.8,3,0,0,1.0,No major risk indicators detected
+ACC0111,0,LOW,2,3635.99,5692.88,2,0,0,1.0,No major risk indicators detected
+ACC0139,0,LOW,1,0.0,3474.62,1,0,0,1.0,No major risk indicators detected
+ACC0036,0,LOW,1,3016.6,0.0,1,0,0,1.0,No major risk indicators detected
+ACC1076,0,LOW,3,0.0,60243.55,1,0,0,1.0,No major risk indicators detected
+ACC0077,0,LOW,4,4924.64,6942.76,4,0,0,0.25,No major risk indicators detected
+ACC0073,0,LOW,2,1938.96,3101.38,2,0,0,1.0,No major risk indicators detected
+ACC0953,0,LOW,4,14666.91,12420.35,2,0,0,1.0,No major risk indicators detected
+ACC0128,0,LOW,4,4330.89,11029.17,4,0,0,0.75,No major risk indicators detected
+ACC0110,0,LOW,3,2787.43,10413.05,3,0,0,1.0,No major risk indicators detected
+ACC0974,0,LOW,4,12786.45,10218.92,2,0,0,0.75,No major risk indicators detected
+ACC0112,0,LOW,2,10908.43,0.0,2,0,0,1.0,No major risk indicators detected
+ACC0215,0,LOW,4,2825.59,7395.44,4,0,0,0.75,No major risk indicators detected
+ACC0047,0,LOW,2,4580.87,10503.42,2,0,0,1.0,No major risk indicators detected
+ACC0023,0,LOW,3,280.8,6641.24,3,0,0,1.0,No major risk indicators detected
+ACC0134,0,LOW,4,1858.18,6821.02,4,0,0,1.0,No major risk indicators detected
+ACC0171,0,LOW,4,18186.85,3431.23,3,0,0,1.0,No major risk indicators detected
+ACC0120,0,LOW,3,11089.65,8419.8,3,0,0,0.67,No major risk indicators detected
+ACC0956,0,LOW,4,10721.38,11123.77,2,0,0,1.0,No major risk indicators detected
+ACC0062,0,LOW,3,1166.14,8764.87,3,0,0,0.67,No major risk indicators detected
+ACC0021,0,LOW,3,0.0,12693.58,3,0,0,0.67,No major risk indicators detected
+ACC0109,0,LOW,3,1280.04,2880.49,3,0,0,1.0,No major risk indicators detected
+ACC0086,0,LOW,2,0.0,13652.03,2,0,0,1.0,No major risk indicators detected
+ACC0129,0,LOW,2,7977.89,0.0,2,0,0,1.0,No major risk indicators detected
+ACC0970,0,LOW,4,5903.59,15553.6,2,0,0,0.75,No major risk indicators detected
+ACC0945,0,LOW,4,5505.27,11196.09,2,0,0,0.75,No major risk indicators detected
+ACC0241,0,LOW,4,817.41,18818.6,4,0,0,1.0,No major risk indicators detected
+ACC0205,0,LOW,2,0.0,5347.51,2,0,0,0.5,No major risk indicators detected
+ACC0004,0,LOW,4,11534.31,8307.05,4,0,0,0.75,No major risk indicators detected
+ACC0195,0,LOW,2,9766.92,9230.25,2,0,0,1.0,No major risk indicators detected
+ACC0244,0,LOW,3,3343.76,4247.88,3,0,0,0.67,No major risk indicators detected
+ACC0248,0,LOW,2,0.0,7784.58,2,0,0,0.5,No major risk indicators detected
+ACC0055,0,LOW,2,12159.15,0.0,2,0,0,1.0,No major risk indicators detected
+ACC0101,0,LOW,2,3434.83,1124.3,2,0,0,1.0,No major risk indicators detected
+ACC0217,0,LOW,3,0.0,9655.21,3,0,0,0.67,No major risk indicators detected
+ACC0020,0,LOW,2,11966.8,0.0,2,0,0,0.5,No major risk indicators detected
+ACC0930,0,LOW,4,10005.36,5903.59,2,0,0,0.75,No major risk indicators detected
+ACC0019,0,LOW,4,6682.8,13752.05,4,0,0,0.75,No major risk indicators detected
+ACC0937,0,LOW,4,12137.28,13012.53,2,0,0,0.75,No major risk indicators detected
+ACC0093,0,LOW,1,0.0,3067.76,1,0,0,1.0,No major risk indicators detected
+ACC0118,0,LOW,4,1098.86,15459.21,4,0,0,1.0,No major risk indicators detected
+ACC0070,0,LOW,3,3740.2,14176.84,3,0,0,0.67,No major risk indicators detected
